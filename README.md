@@ -65,41 +65,50 @@ Table of Contents
 | ---- | ------------------------------------------------------------ | -------------------- | ------------------ | ---- | ---- | --------------------- |
 | E1   | 开源项目活跃度模型构建及实证[[LocalLink](./PDF/开源项目活跃度模型构建及实证_杨欣捷.pdf)] | 杨欣捷, 田蜜, 江一鸣 | 信息技术与网络安全 | 2021 | -    | `T:C.s.1.活跃度`,`#1` |
 
+
+
 ---
 
-论文收集流程图：
-```flow
-start=>start: 开始
-op1=>operation: 推送PR
-op2=>operation: review
-cond_a=>condition: 推送文献有标签？
-cond_b=>condition: 标签在已有体系内？
-cond_c=>condition: 详细理由review通过？
-cond_d=>condition: 有资源链接？
-op3=>operation: merge PR
-end=>end: 结束框
-op_e1=>operation: 添加标签重提PR
-op_e2__op_1=>operation: 提PullRequest修改标签体系
-cond_e2__cond_a=>condition: 审核PR通过？
-op_e2__op_2=>operation: 修改标签重提PR
-op_e3=>operation: 修改理由重提PR
-cond_e4__cond_a=>condition: 提上传相关资源的TODO issue？
-cond_e4__cond_b=>condition: PRComment注明暂无资源？
+# A. 论文收集流程图
 
-start->op1->op2->cond_a(yes)->cond_b(yes)->cond_c(yes)->cond_d(yes)->op3->end
+```mermaid
+flowchart TD
+	start(开始)
+    op1[推送PR]
+    op2[review]
+    cond_a{推送文献有标签?}
+    cond_b{标签在已有体系内?}
+    cond_c{详细理由review通过?}
+    cond_d{有资源链接?}
+    op3[merge PR]
+    exit[结束框]
 
-cond_a(no)->op_e1->op1
-cond_b(no)->op_e2__op_1->cond_e2__cond_a
-cond_e2__cond_a(yes)->cond_c
-cond_e2__cond_a(no)->op_e2__op_2->op1
-cond_c(no)->op_e3->op1
-cond_d(no)->cond_e4__cond_a
-cond_e4__cond_a(yes)->op3
-cond_e4__cond_a(no)->cond_e4__cond_b
-cond_e4__cond_b(yes)->op3
-cond_e4__cond_b(no)->op1
+    op_e1[添加标签重提PR]
+    op_e2__op_1[提PullRequest修改标签体系]
+    cond_e2__cond_a{审核PR通过?}
+    op_e2__op_2[修改标签重提PR]
+    op_e3[修改理由重提PR]
+    cond_e4__cond_a{提上传相关资源的TODO issue?}
+    cond_e4__cond_b{PR_Comment注明暂无资源?}
+
+
+    start --> op1 --> op2 --> cond_a --yes--> cond_b --yes--> cond_c --yes--> cond_d --yes--> op3 --> exit
+    
+    cond_a --no--> op_e1 --> op1
+    cond_b --no--> op_e2__op_1 --> cond_e2__cond_a
+    cond_e2__cond_a --yes--> cond_c
+    cond_e2__cond_a --no--> op_e2__op_2 --> op1
+    cond_c --no--> op_e3 --> op1
+    cond_d --no--> cond_e4__cond_a
+    cond_e4__cond_a --yes--> op3
+    cond_e4__cond_a --no--> cond_e4__cond_b
+    cond_e4__cond_b --yes--> op3
+    cond_e4__cond_b --no--> op1
+   
 ```
----
 
-**Directory Tree**: A **[sample map](https://www.mubucm.com/doc/58RDuDR3QJG#m)** divided by topics: [Edit Link](https://mubu.com/colla/5nyxE2inO3W).
+
+
+# B. Directory Tree
+A **[sample map](https://www.mubucm.com/doc/58RDuDR3QJG#m)** divided by topics: [Edit Link](https://mubu.com/colla/5nyxE2inO3W).
 
