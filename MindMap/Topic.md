@@ -88,9 +88,9 @@
 
     - 2. Code Duplicates
 
-    - 3. Code clone detection（***）
+    - 3. Code clone detection
 
-    - 4. Cross-project code clones（*****）
+    - 4. Cross-project code clones
 
     - 5. The Secret Life of Hackathon Code(来源、去向、重用率)
 
@@ -101,7 +101,7 @@
 
   - d. 质量
 
-    - 1. Code smells（***）
+    - 1. Code smells
 
     - 2. Code Coverage
 
@@ -113,7 +113,7 @@
 
     - 1. Automated fault localization
 
-    - 2. vulnerability management（***）
+    - 2. vulnerability management
 
     - 3. vulnerable Dependencies
 
@@ -121,13 +121,13 @@
 
     - 5. common vulnerabilities and exposures (CVEs)
 
-    - 6. Software defect prediction（***）
+    - 6. Software defect prediction
 
-    - 7. 软件缺陷分派/缺陷修复人推荐（*****）
+    - 7. 软件缺陷分派/缺陷修复人推荐
 
     - 8. 缺陷报告严重性
 
-    - 9. technical debt（***）
+    - 9. technical debt
 
   - f. 程序理解
 
@@ -145,7 +145,7 @@
 
   - c. 推荐
 
-    - 1. similarity of GitHub repositories（***）
+    - 1. similarity of GitHub repositories
 
     - 2. Discoverability
 
@@ -195,7 +195,7 @@
 
     - 2. Time series
 
-    - 3. Code review（***）
+    - 3. Code review
 
     - 4. Search-based software testing
 
@@ -375,7 +375,7 @@
 
     - 4. Collaboration Graph
 
-    - 5. 协作网络鲁棒性（***）
+    - 5. 协作网络鲁棒性
 
     - 6. Network Growing Model
 
@@ -415,7 +415,7 @@
 
     - 1. license
 
-    - 2. License Compliance Ecosystem(*****)
+    - 2. License Compliance Ecosystem
 
     - 3. Licensing Bugs
 

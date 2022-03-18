@@ -6,7 +6,7 @@ Table of Contents
 
 # Topics
 
-|No. |Paper | Author | Conf&Journal | Year | Rank | Tags |
+|No. |Paper | Author | Conf&Journal | Year | Rank | [Tags](./MindMap/Topic.md) |
 |---|---|---|---|---|---|---|
 |T1|[What Makes a Great Maintainer of Open Source Projects?](https://ieeexplore.ieee.org/abstract/document/9402023)[[LocalLink](./PDF/What_Makes_a_Great_Maintainer_of_Open_Source_Projects.pdf)]|Edson Dias et al.|ICSE|2021|A|`A.a.2.开发者`|
 |T2|How Do Companies Collaborate in Open Source Ecosystems? An Empirical Study of OpenStack[[LocalLink](./PDF/How_Do_Companies_Collaborate_in_Open_Source_Ecosystems_An_Empirical_Study_of_OpenStack.pdf)]|Yuxia Zhang et al.|ICSE|2020|A|`A.b.3.企业`,`D.社区与生态`|
@@ -53,17 +53,17 @@ Table of Contents
 
 # Problems
 
-| No.  | Paper                                                        | Author                                                       | Conf&Journal | Year | Rank | Tags             |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ | ---- | ---- | ---------------- |
-| P1   | **World of  code**: enabling a research workflow for mining and  analyzing the universe of open source VCS data | Ma, Y., Dey,  T., Bogart, C., Amreen, S., Valiev, M., Tutko, A., ... & Mockus, A | ESE          | 2021 | A    | `B.b.数据集构建` |
+| No.  | Paper                                                        | Author                                                       | Conf&Journal | Year | Rank | [Tags](./MindMap/Problem.md) |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ | ---- | ---- | ---------------------------- |
+| P1   | **World of  code**: enabling a research workflow for mining and  analyzing the universe of open source VCS data | Ma, Y., Dey,  T., Bogart, C., Amreen, S., Valiev, M., Tutko, A., ... & Mockus, A | ESE          | 2021 | A    | `B.b.数据集构建`             |
 
 
 
 # Extra
 
-| No.  | Paper                                                        | Author               | Conf&Journal       | Year | Rank | Tags                  |
-| ---- | ------------------------------------------------------------ | -------------------- | ------------------ | ---- | ---- | --------------------- |
-| E1   | 开源项目活跃度模型构建及实证[[LocalLink](./PDF/开源项目活跃度模型构建及实证_杨欣捷.pdf)] | 杨欣捷, 田蜜, 江一鸣 | 信息技术与网络安全 | 2021 | -    | `T:C.s.1.活跃度`,`#1` |
+| No.  | Paper                                                        | Author               | Conf&Journal       | Year | Rank | Tags&[Reasons](./PaperRecomm/SpecialReason.md) |
+| ---- | ------------------------------------------------------------ | -------------------- | ------------------ | ---- | ---- | ---------------------------------------------- |
+| E1   | 开源项目活跃度模型构建及实证[[LocalLink](./PDF/开源项目活跃度模型构建及实证_杨欣捷.pdf)] | 杨欣捷, 田蜜, 江一鸣 | 信息技术与网络安全 | 2021 | -    | `T:C.s.1.活跃度`,`#1`                          |
 
 
 
@@ -81,7 +81,7 @@ flowchart TD
     cond_c{详细理由review通过?}
     cond_d{有资源链接?}
     op3[merge PR]
-    exit[结束框]
+    exit(结束)
 
     op_e1[添加标签重提PR]
     op_e2__op_1[提PullRequest修改标签体系]
