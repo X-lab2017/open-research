@@ -3,27 +3,27 @@
   - a. 个人
 
     - 1. 识别
-      - correcting developer identity errors
+      - Correcting Developer Identity Errors
 
     - 2. 开发者
 
       - Representation of Developer Expertise
 
-      - developers' personalities
+      - Developers' Personalities
 
       - 参与积极性
 
-      - Shifting motivation
+      - Motivation Changes
 
-      - Motivating the contributions
+      - Motivating the Contributions
 
       - Characterizing the Roles of Contributors
 
-      - non-coding roles
+      - Non-coding Roles
 
       - Developer Role Evolution
 
-      - Developer recommendation/贡献者推荐（Poster）
+      - Developer Recommendation/贡献者推荐（Poster）
 
     - 3. 同行评审人
       - 代码评审人推荐
@@ -58,19 +58,21 @@
 
   - c. 软件机器人
 
-    - 1. SoftwareBots
+    - 1. Software Bots
 
     - 2. Code Review Bots
 
     - 3. Robotic Process Automation
 
-    - 4. Bot detection
+    - 4. Bot Detection
 
-    - 5. Bot activity
+    - 5. Bot Activity
+
+    - 6. API Recommendation
 
   - d. 利益相关者
 
-    - 1. stakeholder influence analysis (SIA)
+    - 1. Stakeholder Influence Analysis (SIA)
 
     - 2. Stakeholder Influence and Collaboration Patterns
 
@@ -84,54 +86,54 @@
 
   - a. 重用
 
-    - 1. code reuse（如函数级别）
+    - 1. Code Reuse（如函数级别）
 
     - 2. Code Duplicates
 
-    - 3. Code clone detection
+    - 3. Code Clone Detection
 
-    - 4. Cross-project code clones
+    - 4. Cross-project Code Clones
 
     - 5. The Secret Life of Hackathon Code(来源、去向、重用率)
 
   - b. 代码重构
 
   - c. 变更
-    - 1. distributed VCS(track code changes)
+    - 1. Distributed VCS(track code changes)
 
   - d. 质量
 
-    - 1. Code smells
+    - 1. Code Smells
 
     - 2. Code Coverage
 
-    - 3. quality prediction
+    - 3. Quality Prediction
 
-    - 4. impact of complexity on cost and quality
+    - 4. Impact of Complexity on Cost and Quality
 
   - e. 缺陷
 
-    - 1. Automated fault localization
+    - 1. Automated Fault Localization
 
-    - 2. vulnerability management
+    - 2. Vulnerability Management
 
-    - 3. vulnerable Dependencies
+    - 3. Vulnerable Dependencies
 
     - 4. Vulnerable Code Clone Discovery
 
-    - 5. common vulnerabilities and exposures (CVEs)
+    - 5. Common Vulnerabilities and Exposures (CVEs)
 
-    - 6. Software defect prediction
+    - 6. Software Defect Prediction
 
     - 7. 软件缺陷分派/缺陷修复人推荐
 
     - 8. 缺陷报告严重性
 
-    - 9. technical debt
+    - 9. Technical Debt
 
   - f. 程序理解
 
-    - 1. Program comprehension
+    - 1. Program Comprehension
 
     - 2. 代码摘要与标签自动生成
 
@@ -145,28 +147,30 @@
 
   - c. 推荐
 
-    - 1. similarity of GitHub repositories
+    - 1. Similarity of GitHub Repositories
 
     - 2. Discoverability
 
     - 3. Reference Coupling
 
-    - 4. heterogeneous recommendations 
+    - 4. Heterogeneous Recommendations 
 
     - 5. 软件功能特征挖掘
 
+    - 6. API Recommendation
+
   - d. 生产力
-    - 1. Software productivity measurement model for OS
+    - 1. Software Productivity Measurement Model for OS
 
   - e. 管理及策略
 
-    - 1. Contributions
+    - 1. Evaluate Contributions
 
     - 2. Contribution Management(Contribution Strategy)
 
-    - 3. Software engineering
+    - 3. Software Engineering
 
-    - 4. analyzing and managing requirements(RE视角)
+    - 4. Analyzing and Managing Requirements(RE视角)
 
     - 5. Donations
 
@@ -174,71 +178,74 @@
 
     - 7. Govern Developers
 
-    - 8. incentive(激励)
+    - 8. Incentive(激励)
 
-    - 9. career paths of open source developers
+    - 9. Career Paths of Open Source Developers
 
   - f. 分工
 
-    - 1. Online division of labour/emergent structures
+    - 1. Online Division of Labour/Emergent Structures
 
     - 2. Dynamic Scheduling and Workforce Assignment
 
     - 3. 成员分工协作对OSS项目成功的影响
 
   - g. 生命周期
-    - 1. Project Life-span
-
+  - 1. Project Life-span
+  
   - h. 开发过程
 
-    - 1. CI(continuous integration)
+    - 1. CI(Continuous Integration)
 
-    - 2. Time series
+    - 2. Time Series
 
-    - 3. Code review
+    - 3. Code Review
 
-    - 4. Search-based software testing
+    - 4. Search-based Software Testing
 
   - i. 日志
-    - 1. Log
-
+  - 1. Log
+  
   - j. Issue
 
     - 1. Issue Link Label
 
     - 2. Issue参与者推荐
 
-  - k. PullRequest
+  - k. Pull Request
 
-  - l. release
+  - l. Release
 
     - 1. Release Management
 
     - 2. Frequent Releases
 
-  - m. bug resolution
+  - m. Bug
 
-    - 1. Concurrency bugs
+    - 1. Concurrency Bugs
 
     - 2. Priority Prediction for Bug Reports
 
-    - 3. the relation between repeat developer interactions and bug resolution times
+    - 3. the Relation Between Repeat Developer Interactions and Bug Resolution Times
 
-  - n. contribution
-    - 1. Fairness in Modern Code Reviews
+    - 4. Bug Detection
 
+    - 5. Bug Resolution
+
+  - n. Code of Conduct
+  
   - o. Branch
     - 1. Branches for Mining File Histories
-
-  - p. merge conflicts
-    - 1. communication activity and merge conflicts
-
+    
+  - p. Merge Conflicts
+    - 1. Communication Activity and Merge Conflicts
+  
   - q. Fork
-    - 1. Fork摘要自动生成
-
-  - r. communication
-    - 1. Core-periphery communication
-
+  - 1. Fork摘要自动生成
+  
+  - r. Communication
+  - 1. Core-periphery Communication
+  
   - s. 度量
 
     - 1. 活跃度
@@ -262,9 +269,9 @@
 
   - b. 健康
 
-    - 1. OSSEco(Health, Company collaborate)
+    - 1. OSSEco(Health, Company Collaborate)
 
-    - 2. define GitHub open source ecosystem health
+    - 2. Define GitHub Open Source Ecosystem Health
 
     - 3. Population Structures
 
@@ -274,11 +281,11 @@
 
     - 6. Community Smells
 
-    - 7. technical dependencies
+    - 7. Technical Dependencies
 
   - c. 质量
 
-    - 1. underproduction risk
+    - 1. Underproduction Risk
 
     - 2. The Influence of Risk Factors 
 
@@ -297,9 +304,11 @@
 
   - f. 演化
 
-    - 1. software evolution
+    - 1. Software Evolution
 
-    - 2. Evolution of communities of software
+    - 2. Evolution of Communities of Software
+
+    - 3. Evolution of Software Ecosystem
 
   - g. 分布
     - 1. Geography of OSS
@@ -309,7 +318,7 @@
 
   - i. 治理
 
-    - 1. malware detection
+    - 1. Malware Detection
 
     - 2. Governify for APIs
 
@@ -330,9 +339,9 @@
 
     - 2. Popularity Growth of Packages
 
-    - 3. package distribution(version maturity, release pressure)
+    - 3. Package Distribution(Version Maturity, Release Pressure)
 
-    - 4. 软件供应链（software supply chain）安全
+    - 4. 软件供应链（Software Supply Chain）安全
 
     - 5. VCS: Word of Code
 
@@ -340,21 +349,21 @@
 
     - 7. Critical Projects
 
-    - 8. Comprehensive R Archive Network (CRAN) package ecosystem
+    - 8. Comprehensive R Archive Network (CRAN) Package Ecosystem
 
     - 9. Temporal Graph
 
   - b. 开发者行为
 
-    - 1. Forecasting commit activity/commit提交行为挖掘
+    - 1. Forecasting Commit Activity/Commit提交行为挖掘
 
     - 2. Elite Developers' Activities
 
     - 3. Activity-Based Analysis
 
-    - 4. developer retention factors
+    - 4. Developer Retention Factors
 
-    - 5. developer turnover
+    - 5. Developer Turnover
 
     - 6. 核心开发者流失
 
@@ -363,7 +372,7 @@
     - 8. Modularization of Research Software for Collaborative OSSD
 
   - c. Developer Social Network(DSN)
-    - 1. evolution
+    - 1. Evolution
 
   - d. 协作网络
 
@@ -387,33 +396,35 @@
 
     - 2. 关键技术
 
+  - f. Evolutionary Coupling
+
 - F. 开源软件
 
   - a. 概念
 
     - 1. Open Source Software（OSS）
 
-    - 2. OSS ecosystem（Open source software ecosystems）
+    - 2. OSS Ecosystem（Open Source Software Ecosystems）
 
-    - 3. Open data ecosystem
+    - 3. Open Data Ecosystem
 
     - 4. Evolution
 
   - b. 管理
 
-    - 1. OSS governance
+    - 1. OSS Governance
 
     - 2. Policymakers
 
   - c. 趋势
 
-    - 1. Open innovation
+    - 1. Open Innovation
 
-    - 2. Cloud computing
+    - 2. Cloud Computing
 
   - d. 理念与知识产权
 
-    - 1. license
+    - 1. License
 
     - 2. License Compliance Ecosystem
 
@@ -421,7 +432,7 @@
 
     - 4. 许可证推荐
 
-    - 5. Changes in FOSS licenses
+    - 5. Changes in FOSS Licenses
 
   - e. 隐私
     - 1. Privacy in Software Ecosystems（Data Protection）
