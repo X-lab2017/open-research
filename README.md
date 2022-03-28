@@ -10,8 +10,8 @@ Table of Contents
 |---|---|---|---|---|---|---|
 |T1|[What Makes a Great Maintainer of Open Source Projects?](https://ieeexplore.ieee.org/abstract/document/9402023)[[LocalLink](./PDF/What_Makes_a_Great_Maintainer_of_Open_Source_Projects.pdf)]|Edson Dias et al.|ICSE|2021|A|`A.a.2.开发者`|
 |T2|How Do Companies Collaborate in Open Source Ecosystems? An Empirical Study of OpenStack[[LocalLink](./PDF/How_Do_Companies_Collaborate_in_Open_Source_Ecosystems_An_Empirical_Study_of_OpenStack.pdf)]|Yuxia Zhang et al.|ICSE|2020|A|`A.b.3.企业`,`D.社区与生态`|
-|T3|Sustainability Forecasting for Apache Incubator Projects[[LocalLink](./PDF/Sustainability Forecasting for Apache Incubator Projects.pdf)]|Likang Yin et al.|FSE|2021|A|`D.d.1.Sustainability`|
-|T4|Let's Talk About It: Evaluating Contributions through Discussion in GitHub[[LocalLink](./PDF/Let's Talk About It- Evaluating Contributions through Discussion in GitHub.pdf)]|Jason Tsay et al.|FSE|2014|A|`C.e.1.Contributions`|
+|T3|Sustainability Forecasting for Apache Incubator Projects[[LocalLink](./PDF/Sustainability%20Forecasting%20for%20Apache%20Incubator%20Projects.pdf)]|Likang Yin et al.|FSE|2021|A|`D.d.1.Sustainability`|
+|T4|Let's Talk About It: Evaluating Contributions through Discussion in GitHub[[LocalLink](./PDF/Let's%20Talk%20About%20It-%20Evaluating%20Contributions%20through%20Discussion%20in%20GitHub.pdf)]|Jason Tsay et al.|FSE|2014|A|`C.e.1.Contributions`|
 |T5|**Companies' Participation** in OSS  Development-An Empirical Study of OpenStack|Zhang,  Y., Zhou, M., Mockus, A., & Jin, Z.|TSE|2021|A|`A.b.3.企业`,`D.社区与生态`|
 |T6|**World of  code**: enabling a research workflow for mining and  analyzing the universe of open source VCS data|Ma, Y., Dey,  T., Bogart, C., Amreen, S., Valiev, M., Tutko, A., ... & Mockus, A|ESE|2021|A|`E.a.5.VCS`|
 |T7|Profiles of **Schema  Evolution** in Free Open Source Software Projects|Vassiliadis, P|ICDE|2021|A|`D.f.演化`|
@@ -77,10 +77,11 @@ Notes: A bold `No.` indicates the record has been shared in our meetings, e.g. *
 flowchart TD
 	start(开始)
     op1[推送PR]
-    op2[review]
     cond_a{推送文献有标签?}
     cond_b{标签在已有体系内?}
-    cond_c{详细理由review通过?}
+    cond_c1{文献为近5年且Rank B及以上?}
+    op2[提交详细理由]
+    cond_c2{详细理由review通过?}
     cond_d{有资源链接?}
     op3[merge PR]
     exit(结束)
@@ -94,13 +95,15 @@ flowchart TD
     cond_e4__cond_b{PR_Comment注明暂无资源?}
 
 
-    start --> op1 --> op2 --> cond_a --yes--> cond_b --yes--> cond_c --yes--> cond_d --yes--> op3 --> exit
+    start --> op1 --> cond_a --yes--> cond_b --yes--> cond_c1 --yes--> cond_d --yes--> op3 --> exit
     
     cond_a --no--> op_e1 --> op1
     cond_b --no--> op_e2__op_1 --> cond_e2__cond_a
-    cond_e2__cond_a --yes--> cond_c
+    cond_e2__cond_a --yes--> cond_c1
     cond_e2__cond_a --no--> op_e2__op_2 --> op1
-    cond_c --no--> op_e3 --> op1
+    cond_c1 --no--> op2 --> cond_c2
+    cond_c2 --yes--> cond_d
+    cond_c2 --no--> op_e3 --> op1
     cond_d --no--> cond_e4__cond_a
     cond_e4__cond_a --yes--> op3
     cond_e4__cond_a --no--> cond_e4__cond_b
