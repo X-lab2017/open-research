@@ -1,6 +1,6 @@
 ### 这个内容型开源项目，用一句话来说就是：**用开源的方法来研究开源的现象。**（open source methodology for open source phenomena）
 
-这里我们逐渐迭代出部分特色模块项目，欢饮大家一起来参与：
+这里我们逐渐迭代出部分特色模块项目，欢饮大家一起来参与。
 
 ## 1️⃣ **论文阅读与写作**
 
@@ -17,7 +17,7 @@
 ## 3️⃣ **研究方法**
 
 > 作为一个典型的跨学科的研究领域，开源的研究方法涉及到多个方面，这里我们希望从两个方法论的角度来开展持续研究。
-> - [开源测量学](https://github.com/X-lab2017/open-research/tree/main/OpenMetrology) 
+> - 开源测量学：https://github.com/X-lab2017/open-research/tree/main/OpenMetrology
 > - [开源纲目](https://github.com/X-lab2017/open-research/tree/main/Opendium) 
 
 ## 4️⃣ **研究项目**
