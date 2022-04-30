@@ -9,16 +9,16 @@
 ## 2️⃣ **协作工具**
 
 > 高效的研究离不开工具的支持，结合 GitHub 整合一些日常使用的协同工具，常见的场景包括：
-> - 时间管理：参见：https://github.com/X-lab2017/open-wonderland/issues/30
-> - 知识可视化工具：https://markmap.js.org/
+> - **时间管理**：https://github.com/X-lab2017/open-wonderland/issues/30
+> - **知识可视化工具**：https://markmap.js.org/
 > - 协同写作
 > - 报告交流
 
 ## 3️⃣ **研究方法**
 
 > 作为一个典型的跨学科的研究领域，开源的研究方法涉及到多个方面，这里我们希望从两个方法论的角度来开展持续研究。
-> - 开源测量学：https://github.com/X-lab2017/open-research/tree/main/OpenMetrology
-> - [开源纲目](https://github.com/X-lab2017/open-research/tree/main/Opendium) 
+> - **开源测量学**：https://github.com/X-lab2017/open-research/tree/main/OpenMetrology
+> - **开源纲目**：https://github.com/X-lab2017/open-research/tree/main/Opendium
 
 ## 4️⃣ **研究项目**
 
