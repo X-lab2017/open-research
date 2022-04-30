@@ -1,4 +1,6 @@
-### 这个内容型开源项目，用一句话来说就是：**用开源的方法来研究开源的现象。**（open source methodology for open source phenomena）
+### 这个内容型开源项目，用一句话来说就是：
+
+> **用开源的方法来研究开源的现象。**（open source methodology for open source phenomena）
 
 这里我们逐渐迭代出部分特色模块项目，欢饮大家一起来参与。
 
