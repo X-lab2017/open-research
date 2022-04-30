@@ -18,7 +18,7 @@
 #### 2️⃣ **业务视角**
 
 > 从一个业务场景驱动的视角来观察不同类别的开源事项活动，典型的分类体系包括：
-> - 开源社区的治理与运营业务：https://github.com/X-lab2017/open-research/blob/main/Opendium/BizSce.md
+> - [开源社区的治理与运营业务](https://github.com/X-lab2017/open-research/blob/main/Opendium/BizSce.md)
 > - 企业开源治理业务
 > - 商业开源业务（投资、商业化等）
 
