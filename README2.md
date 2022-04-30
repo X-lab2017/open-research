@@ -15,6 +15,7 @@
 > - **知识可视化工具**：https://markmap.js.org/
 > - 协同写作
 > - 报告交流
+> - **品牌宣传**：https://www.getrevue.co/profile/x-lab
 
 ## 3️⃣ **研究方法**
 
