@@ -6,3 +6,7 @@
 4.	Bin Su, Kai Zheng, Wei Wang, **A GitHub Project Recommendation Model Based on Self-Attention Sequence**, BDE 2021.
 5.	Tianyi Zhou, Wei Wang, Shengyu Zhao, **Open Source Galaxy: Heterogeneous Information Networks in Social Coding**, IEEE 6th International Conference on Big Data Analytics (ICBDA), 2021
 6.	范家宽, 王皓月, 赵生宇, 周添一, 王伟, **数据驱动的开源贡献度量化评估与持续优化方法**, 计算机科学, 2021, 48(5): 45-50.
+7.	Wei Wang, Liqing Zhang, Dong Guo, et al., **Reg: An Ultra-lightweight Container that Maximizes Memory Sharing and Minimizes the Runtime Environment**, The 2019 International Conference on Web Services (ICWS), IEEE Computer Society, 2019.
+8.	Wei Wang, Hao Wang, Bo Yang, et al., **A Bayesian Network Based Knowledge Engineering Framework for IT Service Management**, IEEE Transactions on Services Computing (ISSN 1939-1374), 2013, 6(1): 76-88.
+9.	Wei Wang, Guosun Zeng,** Cloud-DLS: Dynamic Trusted Scheduling for Cloud Computing**, Expert System with Applications (ISSN 0957-4174), 2012, 39(3): 2321-2329.
+10.	
