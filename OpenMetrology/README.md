@@ -74,7 +74,7 @@
 > - 熟悉方法论，访谈与调研对象，设定目标，制作量表，访谈过程，数据分析，结果发布
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/15010826/166086621-634a3c89-d7ca-4e30-82d7-548c431a5ffa.png" width="650px">
+<img src="https://user-images.githubusercontent.com/15010826/166086621-634a3c89-d7ca-4e30-82d7-548c431a5ffa.png" width="800px">
 </div>
 
 **<p align="center">一切皆可度量</p>**
