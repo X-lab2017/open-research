@@ -74,12 +74,21 @@
 > - 熟悉方法论，访谈与调研对象，设定目标，制作量表，访谈过程，数据分析，结果发布
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/15010826/166081936-0c0f6851-9a13-4a99-b1d2-b28c80dc7a10.png" width="650px">
+<img src="https://user-images.githubusercontent.com/15010826/166086621-634a3c89-d7ca-4e30-82d7-548c431a5ffa.png" width="650px">
 </div>
+
+**<p align="center">一切皆可度量</p>**
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/15010826/166086583-01294bfa-85bf-40b1-82a3-c4afc0cfd0bc.png" width="650px">
 </div>
 
+**<p align="center">扩展读物</p>**
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/15010826/166086637-b17edc7e-b192-4447-a05f-359ab6804681.png" width="650px">
+</div>
+
+**<p align="center">直接建立起**科学发展活动**与**商业活动**的良性互动联系是至关重要的！</p>**
 
 
