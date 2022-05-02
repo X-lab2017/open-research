@@ -37,7 +37,7 @@
 - 做好初步思考总结，笔记、PPT 等工作
 
 #### 4、内部分享讨论
-在 X-lab 的组会等活动上进行正式的分享，同时也锻炼自己的讲述表达能力 [[**一个参考📒**](https://www.bilibili.com/video/BV1Ut411P7dM?spm_id_from=333.337.search-card.all.click "如何做学术报告")]
+在 X-lab 的组会等活动上进行正式的分享，同时也锻炼自己的讲述表达能力 语雀的图床
 
 分享过程会录制，并上传到 X-lab 的 B 站公众号上。[[**进入🎥**](https://space.bilibili.com/510793367 "B站视频")]
 
@@ -53,9 +53,23 @@
 - 外部讨论内容（可选）（Open discussion）
 - 思考与启发（Inspired thinking）
 
-#### 6、发布分享 RP，收获外部反馈
+#### 6、发布分享 RP，收获外部反馈，并持续迭代
 
-[[**还不会 Markdown❓**](https://www.bilibili.com/video/BV1Yb411c7Hi?spm_id_from=333.999.0.0 "学习 Markdown")]
+- 用自己喜欢的工具或平台进行发布，例如 X-lab 采用的`语雀`、个人博客等 [[**一个博客参考📒**](https://blog.frankzhao.cn/ "一个博客参考")]
+- 将自己的内容导出为 Markdown 格式 [[**还不会 Markdown❓**](https://www.bilibili.com/video/BV1Yb411c7Hi?spm_id_from=333.999.0.0 "学习 Markdown")]
+- 稍微修改一下导出的 Markdown 格式，使其符合博客引擎的要求
+- 自己本地先看看博客渲染效果，例如使用 `Typora`
+- 没有问题后，将这篇报告通过 PR 的形式贡献到仓库的 `open-research/OpenReading/` 目录下
+- 触发 GitHub 的 Action，自动将 PR 中的 Markdown 渲染为文章，将此 PR 部署到线上，并由 bot 给出对应链接（就像Frank在OpenGalaxy中做的那样）
+- 其他读者点进链接，阅读排版精美的RR，并在PR中给出建议
+- 作者做出相应修改，push 新的 commit 上来，再次触发 Action
+- 并且由于 PR 中可以看 diff，作者改了哪些地方将是一目了然
+- 完善好后，合并 PR 到 main 分支，触发另一个GitHub Action 进行更新
+- 可以不断迭代
+
+遗留问题，图床需要统一确定一个：
+- 语雀的图床
+- 阿里云 OSS 上的图床
 
 #### 7、根据内外部反馈优化 RP
 - 启发思考、后续工作等
