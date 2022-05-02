@@ -46,11 +46,10 @@ A few suggestions for (prospective) grad students, in no particular order:
 1. Dealing with Rejection, by Niklas Elmqvist
 2. Tenured Professor Rogers Talks About: Imposter Syndrome, by Casey Fiesler
 
-#### Where to find moneyPermalink
-1. PAC SIGPLAN
-2. CAPS SIGSOFT
-3. Tips for attending OOPSLA with low budget
-
 #### Fun
 1. PHD Comics
+
+#### CFP
+1。 Conference Partner: http://pgbovine.net/
+
 
