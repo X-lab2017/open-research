@@ -53,6 +53,8 @@
 
 #### 6、发布分享 RP，收获外部反馈
 
+[[**还不会 Markdown❓**](https://www.bilibili.com/video/BV1Yb411c7Hi?spm_id_from=333.999.0.0 "学习 Markdown")]
+
 #### 7、根据内外部反馈优化 RP
 - 启发思考、后续工作等
 
