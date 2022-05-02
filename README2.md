@@ -1,4 +1,4 @@
-### 这个内容型开源项目，用一句话来说就是：
+### OpenResearch 这个文档型开源项目，用一句话来说就是：
 
 > **用开源的方法来研究开源的现象。**（open source methodology for open source phenomena）
 
