@@ -41,5 +41,6 @@
 > - 管理学
 > - 复杂性科学
 > - 等等
+> 链接：https://github.com/X-lab2017/open-research/blob/main/Opendium/ModelView.md
 
 
