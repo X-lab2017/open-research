@@ -37,7 +37,7 @@
 - 做好初步思考总结，笔记、PPT 等工作 [一个参考](https://www.bilibili.com/video/BV1dg411P7De?spm_id_from=333.999.0.0)
 
 #### 4、内部分享讨论
-在 X-lab 的组会等活动上进行正式的分享，同时也锻炼自己的讲述表达能力 [一个参考]
+在 X-lab 的组会等活动上进行正式的分享，同时也锻炼自己的讲述表达能力 [[**一个参考📒**](https://www.bilibili.com/video/BV1Ut411P7dM?spm_id_from=333.337.search-card.all.click "如何做学术报告")]
 
 分享过程会录制，并上传到 X-lab 的 B 站公众号上。[[**进入🎥**](https://space.bilibili.com/510793367 "B站视频")]
 
