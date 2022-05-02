@@ -1,11 +1,11 @@
 ### OpenReading
 
-**OpenReading** 是 OpenResearch 项目下的一个论文分析与阅读模式，基于 GitHub 上的 Discussion、Issue、PR、Wiki 等功能，及其这些实体之间的转化。目的是迭代一个开放、高效、能够不断沉淀的分享模式。
+**OpenReading** 是 OpenResearch 项目下的一个论文分析与阅读模式（包括十大步骤），基于 GitHub 上的 Discussion、Issue、PR、Wiki 等功能，及其这些实体之间的转化。目的是迭代一个开放、高效、能够不断沉淀的分享模式。
 
 一张图展示就是：
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/15010826/166193928-956a0c4b-10c1-4849-a720-1011d1aef60b.png" width="600px">
+<img src="https://user-images.githubusercontent.com/15010826/166209838-d3182d7d-2fda-4642-808a-01bde72b8f6d.png" width="600px">
 </div>
 
 **<p align="center">GitReading 十步法</p>** 
@@ -58,29 +58,34 @@
 - 用自己喜欢的工具或平台进行发布，例如 X-lab 采用的`语雀`、个人博客等 [[**一个博客参考📒**](https://blog.frankzhao.cn/ "一个博客参考")]
 - 将自己的内容导出为 Markdown 格式 [[**还不会 Markdown❓**](https://www.bilibili.com/video/BV1Yb411c7Hi?spm_id_from=333.999.0.0 "学习 Markdown")]
 - 稍微修改一下导出的 Markdown 格式，使其符合博客引擎的要求
-- 自己本地先看看博客渲染效果，例如使用 `Typora`
+- 自己本地先看看博客渲染效果，例如使用 `Typora`（可以吗？）
+
+#### 7、正式提交 PR 到仓库中
 - 没有问题后，将这篇报告通过 PR 的形式贡献到仓库的 `open-research/OpenReading/` 目录下
 - 触发 GitHub 的 Action，自动将 PR 中的 Markdown 渲染为文章，将此 PR 部署到线上，并由 bot 给出对应链接（就像Frank在OpenGalaxy中做的那样）
-- 其他读者点进链接，阅读排版精美的RR，并在PR中给出建议
+
+遗留问题，图床需要统一确定一个：
+- 语雀的图床
+- 阿里云 OSS 的图床
+
+#### 8、根据反馈优化 OpenRep
+
+- 其他读者点进链接，阅读排版精美的 RR，并在 PR 中给出建议
 - 作者做出相应修改，push 新的 commit 上来，再次触发 Action
 - 并且由于 PR 中可以看 diff，作者改了哪些地方将是一目了然
 - 完善好后，合并 PR 到 main 分支，触发另一个GitHub Action 进行更新
 - 可以不断迭代
 
-遗留问题，图床需要统一确定一个：
-- 语雀的图床
-- 阿里云 OSS 上的图床
-
-#### 7、根据内外部反馈优化 RP
-- 启发思考、后续工作等
-
-#### 8、正式提交 PR 到仓库中
-
 #### 9、多平台宣传
-微信号、微博、知乎等
+
+看准时机后（例如），就可以在各大媒体平台上进行宣传了。
+- 微信号
+- 微博
+- 知乎
+- Weekly newsletter of X-lab：https://www.getrevue.co/profile/x-lab
+- 国内不知道有没有上述这样的宣传平台
 
 #### 10、发起新的工作
 - 启发添加新的论文入库
 - 推动自己或他人的研究工作
 - 吸引内外部其他人员一起
-
