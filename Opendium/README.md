@@ -14,7 +14,7 @@
 > - 开源项目的技术栈类型 @birdflyi
 > - 开源项目的主题分类 @birdflyi
 > - 开发者的类型（贡献、角色、技能）@xiaoya-Esther @wengzhenjie @kongzhongsanbu
-> - 链接：https://github.com/X-lab2017/open-research/blob/main/Opendium/SubView
+> - 链接：https://github.com/X-lab2017/open-research/blob/main/Opendium/SubView.md
 
 ## 2️⃣ **业务视角**
 
