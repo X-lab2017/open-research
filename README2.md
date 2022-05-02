@@ -32,11 +32,11 @@
 > - **协同写作**：https://www.overleaf.com/
 > - **品牌宣传**：https://www.getrevue.co/profile/x-lab
 
-## 4️⃣ **研究方法(Research method)**
+## 4️⃣ **研究方法（Research method）**
 
 > 作为一个典型的跨学科的研究领域，开源的研究方法涉及到多个方面，这里我们希望从两个方法论的角度来开展持续研究。
-> - **开源测量学**：https://github.com/X-lab2017/open-research/tree/main/OpenMetrology
-> - **开源纲目**：https://github.com/X-lab2017/open-research/tree/main/Opendium
+> - **开源测量学（OpenMetrology）**：https://github.com/X-lab2017/open-research/tree/main/OpenMetrology
+> - **开源纲目（Opendium）**：https://github.com/X-lab2017/open-research/tree/main/Opendium
 
 ## 5️⃣ **特色项目（Featured projects）**
 
