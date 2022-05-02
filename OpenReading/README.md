@@ -5,7 +5,7 @@
 一张图展示就是：
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/15010826/166179877-3b477b63-d04b-4da3-97b3-fd39d1055b4a.png" width="700px">
+<img src="https://user-images.githubusercontent.com/15010826/166193928-956a0c4b-10c1-4849-a720-1011d1aef60b.png" width="600px">
 </div>
 
 **<p align="center">GitReading 十步法</p>** 
