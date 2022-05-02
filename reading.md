@@ -50,10 +50,10 @@ A few suggestions for (prospective) grad students, in no particular order:
 1. PHD Comics
 
 #### CFP
-1。 Conference Partner: http://pgbovine.net/
+1. Conference Partner: http://pgbovine.net/
 2. CCF会议列表: https://www.ccf.org.cn/Academic_Evaluation/By_category/
 
-http://gustavopinto.org/reading/
+- http://gustavopinto.org/reading/
 
 
 
