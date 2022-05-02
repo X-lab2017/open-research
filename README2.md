@@ -12,6 +12,10 @@
 <img src="https://user-images.githubusercontent.com/15010826/164953309-5d9e8f5f-5aa7-46d1-9374-455ae6ac6562.png" width="500px">
 </div>
 
+> - 开源研究论文列表 [[**查看论文列表📚**](https://github.com/X-lab2017/open-research/blob/main/README.md "论文列表")]
+> - 论文阅读循环 [[**进入论文阅读👓**](https://github.com/X-lab2017/open-research/tree/main/OpenReading "论文阅读")]
+> - 论文写作循环 [[**进入论文写作✒️**](https://github.com/X-lab2017/open-research/tree/main/OpenWriting "论文写作")]
+
 ## 2️⃣ **研究框架（Research framework）**
 
 > 框架是一种思维模式，也就是我们所选择用的心智模型，会决定我们如何理解这个世界，也决定我们如何行动。开源的科学研究，注定是一个多学科、跨学科的研究，一套通用的研究框架，对于指导大家研究的开展，还是非常有必要的。
