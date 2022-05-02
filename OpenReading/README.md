@@ -20,7 +20,7 @@
 
 用 `Issue` 进行提议的时候，可以遵照一个 `OpenPro` 的模板，进行结构化的描述，方便丰富待分享论文的上下文。
 
-**`Reading plan proposal, OpenPro`** 模板（8要素）：
+✳️ **`Reading plan proposal, OpenPro`** 模板（8要素）：
 - **论文题目**（Title）：论文完整正式的标题
 - **作者与机构背景**（Author and affiliation）：主要作者与作者所属机构或实验室的背景信息
 - **发表年份**（Year）：正式发表或公开上传的年份
@@ -31,14 +31,10 @@
 - **相关背景补充**（可选）（Background）：其他可选的背景补充信息
 
 #### 3、深度阅读、动手实践
-- 根据一般科研论文的阅读方法 [[**一个参考📒**]]  [[**另一个参考📒**]]  [[**子豪兄惊喜版😎**](https://www.bilibili.com/video/BV15w411Z7LG?p=11 "子豪兄版")]
+- 根据一般科研论文的阅读方法 [**一个参考📒**]  [**另一个参考📒**]  [[**子豪兄惊喜版😎**](https://www.bilibili.com/video/BV15w411Z7LG?p=11 "子豪兄版")]
 - 必要的实验复现，或此基础上的修改与优化等工作
-- 阅读过程当中，追踪到的新论文，可以添加到论文库中 [点击这里]
-- 做好初步思考总结，笔记、PPT 等工作 [一个参考](https://www.bilibili.com/video/BV1dg411P7De?spm_id_from=333.999.0.0)
-
-
-
-
+- 阅读过程当中，追踪到的新论文，可以添加到论文库中 [[📚点击这里](https://www.bilibili.com/video/BV1dg411P7De?spm_id_from=333.999.0.0) "论文库")]
+- 做好初步思考总结，笔记、PPT 等工作
 
 #### 4、内部分享讨论
 在 X-lab 的组会等活动上进行正式的分享，同时也锻炼自己的讲述表达能力 [[**一个参考📒**](https://www.bilibili.com/video/BV1Ut411P7dM?spm_id_from=333.337.search-card.all.click "如何做学术报告")]
@@ -47,11 +43,13 @@
 
 #### 5、会前会后撰写分享报告
 
-`**Reading report, RR**` 要素：
-- RPP 的引用
+可以将此项工作前置，而不用等到分享结束。尽早起步，不断迭代，是不二的法则，还可以及早收获老师同学们的反馈（需要自己主动点）。[[**好的参考1📒**](https://www.yuque.com/shibudengqinsheng/ggwvkm/eri2s3 "一个参考")][[**好的参考2📒**](https://www.yuque.com/tyn1998/blogs/cs1unx "另一个参考")]
+
+✳️ **`Reading plan proposal, OpenRep`** 模板（6要素）：
+- 步骤 3 中 OpenPro 的引用
 - 论文摘要（Abstract）
 - 主题内容（Main content）
-- 内部讨论内容（X-lab disscususion）
+- 分享时的讨论（Disscususion）
 - 外部讨论内容（可选）（Open discussion）
 - 思考与启发（Inspired thinking）
 
