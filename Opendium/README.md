@@ -30,7 +30,7 @@
 > - 数据科学技术 @bifenglin
 > - 软件工程技术 @bifenglin
 > - 系统科学技术
-> - 链接：https://github.com/X-lab2017/open-research/blob/main/Opendium/TechView
+> - 链接：https://github.com/X-lab2017/open-research/blob/main/Opendium/TechView.md
 
 ## 4️⃣ **模型视角**
 
