@@ -12,15 +12,15 @@
 
 #### 1、提出候选论文
 
-通过 'OpenResearch' 仓库上的 'Discussion' 或 'Issue' 提出想要阅读与分享的候选论文，其中：
-- 如果 idea 还不成熟，可以用在 'Discussion' 下面进行预先讨论，成熟后，通过 GitHub 上的 'Discussion ➡️ Issue' 功能进行转换
-- 有成熟 idea 的，直接用 'Issue'进行提议
+通过 'OpenResearch' 仓库上的 `Discussion` 或 `Issue` 提出想要阅读与分享的候选论文，其中：
+- 如果 idea 还不成熟，可以用在 `Discussion` 下面进行预先讨论，成熟后，通过 GitHub 上的 `Discussion ➡️ Issue` 功能进行转换
+- 有成熟 idea 的，直接用 `Issue`进行提议
 
 #### 2、填写 RPP 模板
 
-用 'Issue' 进行提议的时候，可以遵照一个 'OpenPro' 的模板，进行结构化的描述，方便丰富待分享论文的上下文。
+用 `Issue` 进行提议的时候，可以遵照一个 `OpenPro` 的模板，进行结构化的描述，方便丰富待分享论文的上下文。
 
-`**Reading plan proposal, RPP**` 模板要素：
+**`Reading plan proposal, RPP`** 模板要素：
 - 论文题目（Title）
 - 作者与机构背景（Author and affiliation）
 - 发表年份（Year）
