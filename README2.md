@@ -36,7 +36,10 @@
 
 ## 5️⃣ **特色项目（Featured projects）**
 
-> 1. 开源生态价值网络
+> 1. 开源生态价值网络（价值网络四部曲：1、2、3、4）
+
+[[**1🔥**](https://blog.frankzhao.cn/how_to_measure_open_source_1/ "1")][[**2🔥**](https://blog.frankzhao.cn/how_to_measure_open_source_2/ "2")][[**3🔥**](https://blog.frankzhao.cn/how_to_measure_open_source_3/ "3")][[**4🔥**](https://blog.frankzhao.cn/how_to_measure_open_source_4/ "4")]
+
 > 2. 开源社区健康持续性度量
 > 3. 开发者社会技术网络（Developer Socio-Technical Networks，DSTN）的特征与演化
 
