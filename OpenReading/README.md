@@ -20,12 +20,13 @@
 
 用 `Issue` 进行提议的时候，可以遵照一个 `OpenPro` 的模板，进行结构化的描述，方便丰富待分享论文的上下文。
 
-✳️ **`Reading plan proposal, OpenPro`** 模板（8要素）：
+✳️ **`Reading plan proposal, OpenPro`** 模板（9要素）：
 - **论文题目**（Title）：论文完整正式的标题
 - **作者与机构背景**（Author and affiliation）：主要作者与作者所属机构或实验室的背景信息
 - **发表年份**（Year）：正式发表或公开上传的年份
-- **发表会议或期刊**（Conference or Journal）：论文发表的会议或期刊名称
-- **级别**（参照CCF级别）（Ranking）：如会议和期刊列入 CCF 的分级中，可以标注上
+- **会议或期刊名称**（Conference or Journal）：论文发表的会议或期刊名称
+- **级别**（参照 CCF 级别）（Ranking）：如会议和期刊列入 CCF 的分级中，可以标注上
+- **分类标签**（参照 Opendium）（Lable）：参照开源纲目中的分类体系
 - **论文链接**（Link）：论文全文的链接信息，或放在实验室的 OSS 存储服务上
 - **选题原因**（Select reason）：简单描述下选题的原因，特别是和实验室研究方向的关联
 - **相关背景补充**（可选）（Background）：其他可选的背景补充信息
