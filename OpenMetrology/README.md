@@ -5,8 +5,7 @@
 <div align=center>
 <img src="https://user-images.githubusercontent.com/15010826/166406464-4ea4d1c9-f55a-49d9-9279-ea34330653db.png" width="800px">
 </div>
-
-**<p align="center">From Wikimedia Foundation with CC BY-SA 3.0 </p>**
+<p align="center">from Wikimedia Foundation with CC BY-SA 3.0 </p>
 
 ## 1️⃣ **测量世界**
 
