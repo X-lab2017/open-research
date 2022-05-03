@@ -12,7 +12,7 @@
 <img src="https://user-images.githubusercontent.com/15010826/164953309-5d9e8f5f-5aa7-46d1-9374-455ae6ac6562.png" width="500px">
 </div>
 
-> - 开源研究论文列表 [[**查看论文列表📚**](https://github.com/X-lab2017/open-research/blob/main/README.md "论文列表")]
+> - 开源研究论文列表 [[**查看论文列表📚**](https://github.com/X-lab2017/open-research/blob/main/openlist.md "论文列表")]
 > - 论文阅读循环 [[**进入论文阅读👓**](https://github.com/X-lab2017/open-research/tree/main/OpenReading "论文阅读")]
 > - 论文写作循环 [[**进入论文写作✒️**](https://github.com/X-lab2017/open-research/tree/main/OpenWriting "论文写作")]
 
