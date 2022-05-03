@@ -3,6 +3,15 @@
 在开展开源研究工作的时候，不同研究视角，会有不同的分类体系，我们希望在此仓库文件夹下，汇集我们经常用到的一些典型分类体系。
 
 <div align=center>
+<img src="https://user-images.githubusercontent.com/15010826/166406965-d3583039-90be-4646-a177-796d180a89fc.png" width="800px">
+</div>
+<p align="center">From Wikimedia Foundation with CC BY-SA 3.0 </p>
+
+开源研究是一个新兴的交叉性课题，自然需要通过不同的视角来进行看待。而**分类学**（Taxonomy）又是一个古往今来的永恒话题，严格来说是一门进行分类的方法与科学，源于希腊文的τάξις（taxis，意指类别），以及νόμος（nomos，意指方法、法则、科学）。
+
+分类学是系统地研究一门学科的不二选择。作为起步阶段，我们至少可以从**开源研究的对象**（OSS）、**开源研究的方法**（DS）、以及**开源研究的场景**（BA）这三个方面进行入手，进而逐步扩大到各个不同方面。
+
+<div align=center>
 <img src="https://user-images.githubusercontent.com/15010826/166081936-0c0f6851-9a13-4a99-b1d2-b28c80dc7a10.png" width="650px">
 </div>
 
