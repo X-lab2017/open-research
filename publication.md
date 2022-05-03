@@ -2,7 +2,7 @@
 
 ### Talks
 
-1. Wei Wang, Rong Wang, Sikang Bian, **A Decade of Open Source in China - Insights Report with Chinese OSPO's Best Practices**, Open Source Summit North America 2022.
+1. Wei Wang, Rong Wang, Sikang Bian, **A Decade of Open Source in China - Insights Report with Chinese OSPO's Best Practices**, Open Source Summit North America, June 2022.
 2. 王伟，**水杉在线：数据驱动的在线学习平台建设与教学实践**，ECNU 卓越教学管理干部沙龙，2022 年 4 月.
 3. 王伟，**水杉在线在行动：教育数字化转型中的持续实践者**，2022 年 4 月.
 
