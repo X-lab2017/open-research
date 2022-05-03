@@ -2,7 +2,15 @@
 
 > **用开源的方法来研究开源的现象。**（open source methodology for open source phenomena）
 
-这里我们逐渐迭代出部分特色模块项目，欢饮大家一起来参与。
+这里我们逐渐迭代出部分特色模块项目，欢饮大家一起来参与。本仓库包含如下几个实质性的内容：
+- 一个开源研究论文列表（数据库）
+- 一个开放式论文阅读与分享流程（流程）
+- 一个开放式论文写作与发表流程（流程）
+- 一个做开源研究的总体框架（方法）
+- 两个不断实践的开源研究方法（方法）
+- 一个做开源研究的工具清单与最佳实践（工具）
+- 四个特色开源研究方向与项目（项目）
+- 一份开源研究成果
 
 ## 1️⃣ **论文阅读与写作（Academic reading and writing）**
 
@@ -13,8 +21,8 @@
 </div>
 
 > - 开源研究论文列表 [[**查看论文列表📚**](https://github.com/X-lab2017/open-research/blob/main/openlist.md "论文列表")]
-> - 论文阅读循环 [[**进入论文阅读👓**](https://github.com/X-lab2017/open-research/tree/main/OpenReading "论文阅读")]
-> - 论文写作循环 [[**进入论文写作✒️**](https://github.com/X-lab2017/open-research/tree/main/OpenWriting "论文写作")]
+> - 开放式论文阅读与分享流程 [[**进入论文阅读👓**](https://github.com/X-lab2017/open-research/tree/main/OpenReading "论文阅读")]
+> - 开放式论文写作与发表循环 [[**进入论文写作✒️**](https://github.com/X-lab2017/open-research/tree/main/OpenWriting "论文写作")]
 
 ## 2️⃣ **研究框架（Research framework）**
 
@@ -24,19 +32,19 @@
 <img src="https://user-images.githubusercontent.com/15010826/166239708-58639692-c5a3-4f15-b6d4-34103900f6d2.png" width="500px">
 </div>
 
-## 3️⃣ **协作工具（Collaberative tools）**
+## 3️⃣ **研究方法（Research method）**
+
+> 作为一个典型的跨学科的研究领域，开源的研究方法涉及到多个方面，这里我们希望从两个方法论的角度来开展持续研究。
+> - **开源测量学（OpenMetrology）**：https://github.com/X-lab2017/open-research/tree/main/OpenMetrology
+> - **开源纲目（Opendium）**：https://github.com/X-lab2017/open-research/tree/main/Opendium
+
+## 4️⃣ **协作工具（Collaberative tools）**
 
 > 高效的研究离不开工具的支持，结合 GitHub 整合一些日常使用的协同工具，常见的场景包括：
 > - **时间管理**：https://github.com/X-lab2017/open-wonderland/issues/30
 > - **知识可视化工具**：https://markmap.js.org/
 > - **协同写作**：https://www.overleaf.com/
 > - **品牌宣传**：https://www.getrevue.co/profile/x-lab
-
-## 4️⃣ **研究方法（Research method）**
-
-> 作为一个典型的跨学科的研究领域，开源的研究方法涉及到多个方面，这里我们希望从两个方法论的角度来开展持续研究。
-> - **开源测量学（OpenMetrology）**：https://github.com/X-lab2017/open-research/tree/main/OpenMetrology
-> - **开源纲目（Opendium）**：https://github.com/X-lab2017/open-research/tree/main/Opendium
 
 ## 5️⃣ **特色项目（Featured projects）**
 
