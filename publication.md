@@ -10,3 +10,9 @@
 8.	Wenjun Huo, Wei Wang, Wen Li, **AnomalyDetect: An Online Distance-Based Anomaly Detection Algorithm**, 2019 International Conference on Web Services (ICWS 2019), San Diego, USA, June 25 - June 30, 2019.
 9.	Wei Wang, Hao Wang, Bo Yang, et al., **A Bayesian Network Based Knowledge Engineering Framework for IT Service Management**, IEEE Transactions on Services Computing, 2013, 6(1): 76-88.
 10.	Wei Wang, Guosun Zeng, **Cloud-DLS: Dynamic Trusted Scheduling for Cloud Computing**, Expert System with Applications, 2012, 39(3): 2321-2329.
+
+### Books
+
+1. X-lab 开放实验室（译），《开放式协作：开源软件的生产与维护》，华东师范大学出版社，2022.
+2. X-lab 开放实验室（译），《开源如何统治世界》，人民邮电出版社，2022.
+3. X-lab 开放实验室（译），《给所有人的 GitHub 通识课》，机械工业出版社，2022.
