@@ -55,6 +55,6 @@
 
 ## 6️⃣ **研究成果（Achievement）**
 
-> **论文列表**：https://github.com/X-lab2017/open-research/blob/main/publication.md
+> **成果列表**：https://github.com/X-lab2017/open-research/blob/main/publication.md
 
 
