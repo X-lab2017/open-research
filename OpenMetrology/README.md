@@ -1,3 +1,7 @@
+<div align=center>
+<img src="https://user-images.githubusercontent.com/15010826/166406464-4ea4d1c9-f55a-49d9-9279-ea34330653db.png" width="500px">
+</div>
+
 ## 开源测量学（OpenMetrology）
 
 用测量的方法研究开源世界的各种现象。
