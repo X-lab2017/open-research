@@ -15,7 +15,7 @@
 <img src="https://user-images.githubusercontent.com/15010826/166081936-0c0f6851-9a13-4a99-b1d2-b28c80dc7a10.png" width="650px">
 </div>
 
-**<p align="center">不完全分类场景</p>**
+**<p align="center">不完全分类视角</p>**
 
 ## 1️⃣ **对象视角（RS）**
 
