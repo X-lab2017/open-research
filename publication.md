@@ -60,6 +60,6 @@
 
 1. X-lab & 思否，**《中国开源码力榜》**，2022 年 04 月 10 月. [[**查看 📑**](https://opensource.win/ "查看")]
 2. X-lab & 阿里，**《中国十年开源洞察报告》**，2021 年 04 月 10 月. [[**查看 📑**](https://developer.aliyun.com/article/795363 "查看")]
-3. X-lab & COPU，**《2021中国开源发展蓝皮书》**，2021 年 04 月. [[**查看 📑**](http://www.copu.org.cn/new/308 "查看")]
+3. X-lab & COPU，**《2021 中国开源发展蓝皮书》**，2021 年 04 月. [[**查看 📑**](http://www.copu.org.cn/new/308 "查看")]
 4. X-lab 开放实验室，**《GitHub 2020 数字洞察报告》**，2021 年 03 月. [[**查看 📑**](http://oss.x-lab.info/github-insight-report-2020.pdf "查看")]
 5. X-lab 开放实验室，**《GitHub 2019 数字年报》**，2020 年 02 月. [[**查看 📑**](https://github.com/X-lab2017/github-analysis-report-2019 "查看")]
