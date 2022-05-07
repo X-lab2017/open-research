@@ -20,24 +20,24 @@
 ## 1️⃣ **对象视角（RS）**
 
 > 从诸如开源软件、开源项目、开发者、代码制品等研究对象的视角看开源分类学（研究对象），典型的分类体系包括：
-> - 开源项目的技术栈类型 @birdflyi
-> - 开源项目的主题分类 @birdflyi
-> - 开发者的类型（贡献、角色、技能）@xiaoya-Esther @wengzhenjie @kongzhongsanbu
+> - 开源项目的技术栈类型
+> - 开源项目的主题分类
+> - 开发者的类型（贡献、角色、技能等）
 > - 链接：https://github.com/X-lab2017/open-research/blob/main/Opendium/SubView.md
 
 ## 2️⃣ **业务视角（BS）**
 
 > 从一个业务场景驱动的视角来观察不同类别的开源事项活动（研究问题），典型的分类体系包括：
-> - [开源社区的治理与运营业务]
+> - 开源社区的治理与运营业务
 > - 企业开源治理业务
 > - 商业开源业务（投资、商业化等）
-> - 链接：(https://github.com/X-lab2017/open-research/blob/main/Opendium/BizView.md) @will-ww
+> - 链接：(https://github.com/X-lab2017/open-research/blob/main/Opendium/BizView.md)
 
 ## 3️⃣ **方法视角（TM）**
 
 > 从技术手段与研究方法的视角来研究开源相关的课题（研究方法），典型的分类体系包括：
-> - 数据科学技术 @bifenglin
-> - 软件工程技术 @bifenglin
+> - 数据科学技术
+> - 软件工程技术
 > - 系统科学技术
 > - 链接：https://github.com/X-lab2017/open-research/blob/main/Opendium/TechView.md
 
