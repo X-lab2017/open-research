@@ -46,7 +46,7 @@
 > - **协同写作**：https://www.overleaf.com/
 > - **品牌宣传**：https://www.getrevue.co/profile/x-lab
 
-## 5️⃣ **特色项目（Featured projects）**
+## 5️⃣ **特色研究（Featured projects）**
 
 > 1. 开源生态价值网络（价值网络四部曲：[[**1🔥**](https://blog.frankzhao.cn/how_to_measure_open_source_1/ "1")][[**2🔥**](https://blog.frankzhao.cn/how_to_measure_open_source_2/ "2")][[**3🔥**](https://blog.frankzhao.cn/how_to_measure_open_source_3/ "3")][[**4🔥**](https://blog.frankzhao.cn/how_to_measure_open_source_4/ "4")]）@frank-zsy
 > 2. 开源社区的健康与可持续性度量分析与评估 @xiaoya-Esther
