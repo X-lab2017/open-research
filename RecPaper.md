@@ -13,7 +13,7 @@
 - **发表年份**（Year）
 - **会议或期刊名称**（Conference or Journal）
 - **级别**（参照 CCF 级别）（Ranking）（可选）
-- **分类标签**（参照 [Opendium](https://github.com/X-lab2017/open-research/tree/main/Opendium) ] ）（Lable）（可选）
+- **分类标签**（参照 [Opendium](https://github.com/X-lab2017/open-research/tree/main/Opendium) ）（Lable）（可选）
 - **论文链接**（Link）（可选）
 - **推荐理由**（Recommendation reason）（可选）
 
@@ -25,5 +25,4 @@
 - 如果不通过，给出不通过理由
 
 **4. 通过后自动合并到仓库中**
-- 由 Hypertrons 机器人自动合并到[📚OpenList](https://github.com/X-lab2017/open-research/blob/main/openlist.md) "论文列表")] 中
-
+- 由 Hypertrons 机器人自动合并到[📚OpenList](https://github.com/X-lab2017/open-research/blob/main/openlist.md)] 中
