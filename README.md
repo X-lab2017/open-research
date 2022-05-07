@@ -57,4 +57,4 @@
 
 > **成果列表**：https://github.com/X-lab2017/open-research/blob/main/publication.md
 
-
+#### 扩展阅读与参考资料：https://github.com/X-lab2017/open-research/blob/main/reading.md
