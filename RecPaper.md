@@ -25,4 +25,4 @@
 - 如果不通过，给出不通过理由
 
 **4. 通过后自动合并到仓库中**
-- 由 Hypertrons 机器人自动合并到[📚OpenList](https://github.com/X-lab2017/open-research/blob/main/openlist.md)] 中
+- 由 Hypertrons 机器人自动合并到[📚OpenList](https://github.com/X-lab2017/open-research/blob/main/openlist.md) 中
