@@ -27,7 +27,8 @@
 - **会议或期刊名称**（Conference or Journal）：论文发表的会议或期刊名称
 - **级别**（参照 CCF 级别）（Ranking）：如会议和期刊列入 CCF 的分级中，可以标注上
 - **分类标签**：参照开源纲目（[Opendium](https://github.com/X-lab2017/open-research/tree/main/Opendium)）中的分类体系，打上 1 ~ 5 个标签
-- **论文链接**（Link）：论文全文的链接信息，或放在实验室的 OSS 存储服务上
+- **论文链接**（Link）：论文全文的网络链接信息，同时放入 [语雀知识库](https://xlab2017.yuque.com/msdpvs/dtg7ew) 中
+- 
 - **选题原因**（Select reason）：简单描述下选题的原因，特别是和实验室研究方向的关联
 - **相关背景补充**（可选）（Background）：其他可选的背景补充信息
 
