@@ -22,7 +22,7 @@
 #### 1、提出候选论文
 
 通过 `OpenResearch` 仓库上的 `Discussion` 或 `Issue` 提出想要阅读与分享的候选论文，其中：
-- 从[[📚论文列表](https://github.com/X-lab2017/open-research/blob/main/openlist.md)]中选择一篇自己感兴趣的论文
+- 从[[📚论文列表](https://github.com/X-lab2017/open-research/blob/main/openlist.md)]中选择一篇自己感兴趣的论文，如果还没有，请回到上一步骤
 - 不确定是否值得阅读的时候，可以用在 `Discussion` 下面进行预先讨论，成熟后，通过 GitHub 上的 `Discussion ➡️ Issue` 功能进行转换
 - 有把握很感兴趣的论文，直接用 `Issue`进行提议
 
