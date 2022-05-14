@@ -17,7 +17,7 @@
 - 提出讨论或议题的时候，可以用一个非正式模板，几个主要字段包括：题目、会议或期刊名称、年份、级别、分类、推荐理由、链接或全文，共 7 要素
 - [X-lab.PhD](https://github.com/orgs/X-lab2017/teams/x-lab-phd) 团队审核后，正式进入[[📚论文列表](https://github.com/X-lab2017/open-research/blob/main/openlist.md))]
 - 注意：填写 6 要素的时候，尽量都填，实在填不了可以空着，特别是“分类”一栏，不确定的时候可以先用关键词代替
->🌳参考案例：[📚如何正确的推荐一篇论文](https://github.com/X-lab2017/open-research/discussions/42))
+>🌳参考案例：[如何正确的推荐一篇论文](https://github.com/X-lab2017/open-research/discussions/42)
 
 #### 1、提出候选论文
 
@@ -40,7 +40,7 @@
 - **论文链接**（Link）：论文全文的网络链接信息，同时放入[[语雀知识库](https://xlab2017.yuque.com/msdpvs/dtg7ew)]中
 - **选题原因**（Select reason）：简单描述下选题的原因，特别是和实验室研究方向的关联
 - **其他补充**（可选）（Supplementary）：其他可选的背景补充信息
-- >🌳参考案例：如何正确的请求一篇论文 https://github.com/X-lab2017/open-research/issues/40
+- >🌳参考案例： [如何正确的请求分享一篇论文](https://github.com/X-lab2017/open-research/issues/40)
 
 #### 3、深度阅读、动手实践
 - 根据一般科研论文的阅读方法 [**一个参考📒**]  [**另一个参考📒**]  [[**子豪兄惊喜版😎**](https://www.bilibili.com/video/BV15w411Z7LG?p=11 "子豪兄版")]
