@@ -22,7 +22,7 @@
 09  | 04-25 | 夏小雅 | Why Modern Open Source Projects Fail | 娄泽华 | 待补充 
 10  | 05-02 | 吴松林 | Fast Approximate Nearest Neighbor Search With The Navigating Spreading-out Graph | 毕枫林 | 待补充 
 11  | 05-09 | 陈亮 | 研究进展分享 | 毕枫林 | 待补充 
-12  | 05-16 | 翁振杰 | Measuring the Popularity of Job Skills in Recruitment Market: A Multi-Criteria Approach | 毕枫林 | [#49](https://github.com/X-lab2017/open-research/issues/49) 
+12  | 05-16 | 翁振杰 | Measuring the Popularity of Job Skills in Recruitment Market: A Multi-Criteria Approach | 毕枫林 | 推荐：[#49](https://github.com/X-lab2017/open-research/issues/49)  分享：[#50](https://github.com/X-lab2017/open-research/issues/50)
 13  | 05-23 | 顾业鸣 |  | 毕枫林 | 
 14  | 05-30 | 杨鸣 |  | 毕枫林 | 
 15  | 06-06 | 朱香宁 |  | 夏小雅 | 
