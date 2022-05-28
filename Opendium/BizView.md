@@ -1,21 +1,23 @@
-# 基于开源业务场景视角的开源纲目体系设计（Business Scenarios）
+# 基于开源业务场景与开源活动视角的开源纲目体系设计（Business Scenarios）
 
-本部分试图从一个全局的业务场景角度，建立一个以开源软件（OSS）为核心的，在不同场景域（Domain）下的分类体系，进而从一个业务场景驱动的视角来观察不同类别的开源事项活动（Activity），并通过事项类别（Class）进行组织。
+本部分试图从“**开源业务场景与开源活动**”的视角，建立一个以开源软件（OSS）为核心的，在不同场景域（Domain）下的分类体系，进而从一个业务场景驱动的视角，来观察不同类别的开源事项活动（Activity），并通过事项类别（Class）进行组织。最终，形成了一个“王国（Kindom）-域（Domain）-场景（Scenario）-类别（Class）-活动（Activity）”五级结构的开源纲目（Opendium）体系。
 
-顶层的业务场景域包括：开源社区、企业开源、商业开源、公共设施等大类别，还可以拓展到的类别包括政府场景、行业场景、教育场景等。顶层业务场景域下面细分为具体的场景（Scenario），其中：
+<div align=center>
+<img src="https://user-images.githubusercontent.com/15010826/170845242-8f455efc-06cf-4da3-81b4-0508c72fc0d8.png" width="650px">
+</div>
+**<p align="center">图1 开源业务场景与活动视角下的开源纲目体系</p>**
+
+**业务场景域**包括：开源社区、企业开源、商业开源、公共设施等大类别，还可以拓展到的其它场景域包括政府场景、行业场景、教育场景等。业务场景域下面细分为具体的场景（Scenario），其中：
 * **开源社区治理与运营**：社区机制、治理流程、运营流程
 * **企业开源治理**：开源使用、开源贡献、开源战略
 * **商业开源**：开源项目投资、开源商业化
 * **政府开源事务**
 * **开源教育场景**
 
-最终，形成了一个“域（Domain）-场景（Scenario）-类别（Class）-活动（Activity）”四级结构的开源纲目（Opendium）体系。
-
 <div align=center>
 <img src="https://user-images.githubusercontent.com/15010826/164885449-d1121006-b9d2-4910-b72b-14ec0ff15356.png" width="650px">
 </div>
 
-**<p align="center">图1 开源业务场景视角下的开源纲目体系</p>**
 
 > 同时，本篇采用了一个三段编码体系，对这些业务场景进行编码，方便在不同的应用场景下进行引用（例如[📚论文阅读与分享](https://github.com/X-lab2017/open-research/blob/main/openlist.md)）。
 
