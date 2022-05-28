@@ -23,7 +23,7 @@
 10  | 05-02 | 吴松林 | Fast Approximate Nearest Neighbor Search With The Navigating Spreading-out Graph | 毕枫林 | 待补充 
 11  | 05-09 | 陈亮 | 研究进展分享 | 毕枫林 | 待补充 
 12  | 05-16 | 翁振杰 | Measuring the Popularity of Job Skills in Recruitment Market: A Multi-Criteria Approach | 毕枫林 | 推荐[#49](https://github.com/X-lab2017/open-research/issues/49), 分享[#50](https://github.com/X-lab2017/open-research/issues/50)
-13  | 05-23 | 顾业鸣 |  | 毕枫林 | 
+13  | 05-23 | 顾业鸣 | 毕设研究进展，CII 最佳实践解读，Scorecard 介绍 | 毕枫林 | [#54](https://github.com/X-lab2017/open-research/issues/54) 与 [讨论](https://github.com/X-lab2017/open-research/discussions/58)
 14  | 05-30 | 杨鸣 |  | 毕枫林 | 
 15  | 06-06 | 朱香宁 |  | 夏小雅 | 
 16  | 06-13 | 史经犇 |  | 夏小雅 | 
