@@ -24,7 +24,7 @@
 11  | 05-09 | 陈亮 | 研究进展分享 | 毕枫林 | 待补充 
 12  | 05-16 | 翁振杰 | Studying Software Developer Expertise and Contributions in Stack Overflow and GitHub | 毕枫林 | [#50](https://github.com/X-lab2017/open-research/issues/50) 
 13  | 05-23 | 顾业鸣 | 毕设研究进展，CII 最佳实践解读，Scorecard 介绍 | 毕枫林 | [#54](https://github.com/X-lab2017/open-research/issues/54) 与 [讨论](https://github.com/X-lab2017/open-research/discussions/58)
-14  | 05-30 | 杨鸣 |  | 毕枫林 |
+14  | 05-30 | 杨鸣 | 开源软件社区开发者协作网络结构演化分析——以 Cloud Foundry社区为例 | 毕枫林 |[#64](https://github.com/X-lab2017/open-research/issues/64)
 15  | 06-06 | 朱香宁 |  | 夏小雅 |
 16  | 06-13 | 史经犇 |  | 夏小雅 |
 17  | 06-20 | 赵生宇 |  | 夏小雅 |
