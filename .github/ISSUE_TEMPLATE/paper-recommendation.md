@@ -1,5 +1,5 @@
 ---
-name: Paper recomandation
+name: Paper recommendation
 about: This issue helps with the process of recommending a paper
 title: "[PaperRec]"
 labels: 论文入库, 论文推荐
