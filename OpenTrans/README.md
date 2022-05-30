@@ -28,3 +28,4 @@
 
 参考：
 - https://blog.frankzhao.cn/book_translation/
+- DeepL: https://www.deepl.com/zh/pro-api?cta=header-pro-api/
