@@ -7,16 +7,23 @@ assignees: ''
 
 ---
 
-<!-- Please refer to [issue#38](https://github.com/X-lab2017/open-research/issues/38) to see the detailed discussion of the process of recommending a paper. -->
+<!-- Please refer to [issue#38](https://github.com/X-lab2017/open-research/issues/38) to see the detailed discussion of the process of proposing a reading plan. -->
 
-## I wish to recommend a paper
+## Purpose
 
-- Title:
-- Year: 
-- Conference or Journal:
-- Rank:
-- Keywords: 
-- Reason for Recommendation:
-- Link:
+Recommend a paper.
+
+## Checklist
+
+- [ ] Title:
+- [ ] Year: 
+- [ ] Conference or Journal:
+- [ ] Rank:
+- [ ] Keywords: 
+- [ ] Reason for Recommendation:
+- [ ] Link:
+
+## Further comments (Optional)
+
 
 <!-- You can @@X-lab2017/x-lab-phd team to review this proposal -->
