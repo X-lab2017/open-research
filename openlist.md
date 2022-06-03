@@ -53,52 +53,9 @@ Table of Contents
 |0043| 开源软件社区开发者协作网络结构演化分析——以 Cloud Foundry社区为例 |复杂系统与复杂性科学|2019|-|developer collaboration network; OSS community; structure and evolution|T[A0201]|[COPY](https://xlab2017.yuque.com/msdpvs/dtg7ew/26248734),[NOTE](https://xlab2017.yuque.com/me1x4f/opensource/cy19lf),[Video](https://www.bilibili.com/video/bv1aF41157L5)|[#64](https://github.com/X-lab2017/open-research/issues/64)|
 |0044| Quantitative Analysis of Community Evolution in Developer Social Networks Around Open Source Software Projects |arXiv|2022|-|Developer Social Networks, Community Evolution Patterns, Entropy-Bases Indices, Open Source Software, Mining Software Repositories|T[D0602.Evolution of Communities of Software]||[[RecIssue#75](https://github.com/X-lab2017/open-research/issues/75)]|
 
+Notes:
 
----
+- How to recommended a paper: [[FlowChart](https://github.com/X-lab2017/open-research/blob/main/PaperRecomm/PaperRecFlowChart.md)], [Example [#75](https://github.com/X-lab2017/open-research/issues/75) Fixed by [#80](https://github.com/X-lab2017/open-research/pull/80)], [Related Issue&Discussion [#38#issuecomment-1126595612](https://github.com/X-lab2017/open-research/issues/38#issuecomment-1126595612) [#43](https://github.com/X-lab2017/open-research/issues/43) [62#issuecomment-1140374782](https://github.com/X-lab2017/open-research/issues/62#issuecomment-1140374782)] .
 
-# A. 论文收集流程图
-
-```mermaid
-flowchart TD
-	start(开始)
-    op1[推送PR]
-    cond_a{推送文献有标签?}
-    cond_b{标签在已有体系内?}
-    cond_c1{文献为近5年且Rank B及以上?}
-    op2[提交详细理由]
-    cond_c2{详细理由review通过?}
-    cond_d{有资源链接?}
-    op3[merge PR]
-    exit(结束)
-
-    op_e1[添加标签重提PR]
-    op_e2__op_1[提PullRequest修改标签体系]
-    cond_e2__cond_a{审核PR通过?}
-    op_e2__op_2[修改标签重提PR]
-    op_e3[修改理由重提PR]
-    cond_e4__cond_a{提上传相关资源的TODO issue?}
-    cond_e4__cond_b{PR_Comment注明暂无资源?}
-
-
-    start --> op1 --> cond_a --yes--> cond_b --yes--> cond_c1 --yes--> cond_d --yes--> op3 --> exit
-    
-    cond_a --no--> op_e1 --> op1
-    cond_b --no--> op_e2__op_1 --> cond_e2__cond_a
-    cond_e2__cond_a --yes--> cond_c1
-    cond_e2__cond_a --no--> op_e2__op_2 --> op1
-    cond_c1 --no--> op2 --> cond_c2
-    cond_c2 --yes--> cond_d
-    cond_c2 --no--> op_e3 --> op1
-    cond_d --no--> cond_e4__cond_a
-    cond_e4__cond_a --yes--> op3
-    cond_e4__cond_a --no--> cond_e4__cond_b
-    cond_e4__cond_b --yes--> op3
-    cond_e4__cond_b --no--> op1
-   
-```
-
-
-
-# B. Directory Tree
-A **[sample map](https://www.mubucm.com/doc/58RDuDR3QJG#m)** divided by topics: [Edit Link](https://mubu.com/colla/5nyxE2inO3W).
+- Clasification{[T](./MindMap/Topic.md), [P](./MindMap/Problem.md), [M](./Opendium/TechView.md)}: T for Topic mindmap([Topic preview](https://www.mubucm.com/doc/58RDuDR3QJG#m)), P for Problem mindmap, M for Method mindmap. **The tag order represents classification priority**.
 
