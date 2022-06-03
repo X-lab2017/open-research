@@ -51,6 +51,7 @@ Table of Contents
 |0041| 开源项目活跃度模型构建及实证 |信息技术与网络安全|2021|-||T[C1901.活跃度]|[[Copy](./PDF/开源项目活跃度模型构建及实证_杨欣捷.pdf)]|[#1](PaperRecomm/SpecialReason.md)|
 |0042| Studying Software Developer Expertise and Contributions in Stack Overflow and GitHub |ICSME|2020|B|Software developer expertise, developer contributions||[[Copy](https://xlab2017.yuque.com/msdpvs/dtg7ew/26098657)]|[[RecIssue](https://github.com/X-lab2017/open-research/issues/44)]|
 |0043| 开源软件社区开发者协作网络结构演化分析——以 Cloud Foundry社区为例 |复杂系统与复杂性科学|2019|-|developer collaboration network; OSS community; structure and evolution|T[A0201]|[COPY](https://xlab2017.yuque.com/msdpvs/dtg7ew/26248734),[NOTE](https://xlab2017.yuque.com/me1x4f/opensource/cy19lf),[Video](https://www.bilibili.com/video/bv1aF41157L5)|[#64](https://github.com/X-lab2017/open-research/issues/64)|
+|0044| Quantitative Analysis of Community Evolution in Developer Social Networks Around Open Source Software Projects |arXiv|2022|-|Developer Social Networks, Community Evolution Patterns, Entropy-Bases Indices, Open Source Software, Mining Software Repositories|T[D0602.Evolution of Communities of Software]||[[RecIssue#75](https://github.com/X-lab2017/open-research/issues/75)]|
 
 Notes: A bold `No.` indicates the record has been shared in our meetings, e.g. **`0012`**.
 
