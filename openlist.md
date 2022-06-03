@@ -52,6 +52,7 @@ Table of Contents
 |0042| Studying Software Developer Expertise and Contributions in Stack Overflow and GitHub |ICSME|2020|B|Software developer expertise, developer contributions||[[Copy](https://xlab2017.yuque.com/msdpvs/dtg7ew/26098657)]|[[RecIssue](https://github.com/X-lab2017/open-research/issues/44)]|
 |0043| 开源软件社区开发者协作网络结构演化分析——以 Cloud Foundry社区为例 |复杂系统与复杂性科学|2019|-|developer collaboration network; OSS community; structure and evolution|T[A0201]|[COPY](https://xlab2017.yuque.com/msdpvs/dtg7ew/26248734),[NOTE](https://xlab2017.yuque.com/me1x4f/opensource/cy19lf),[Video](https://www.bilibili.com/video/bv1aF41157L5)|[#64](https://github.com/X-lab2017/open-research/issues/64)|
 |0044| Quantitative Analysis of Community Evolution in Developer Social Networks Around Open Source Software Projects |arXiv|2022|-|Developer Social Networks, Community Evolution Patterns, Entropy-Bases Indices, Open Source Software, Mining Software Repositories|T[D0602.Evolution of Communities of Software]||[[RecIssue#75](https://github.com/X-lab2017/open-research/issues/75)]|
+|0045| Mining the Technical Roles of GitHub Users |Information and Software Technology|2021|CCF B|Technical roles, Technical expertise, Developers profiles, Machine learning, GitHub|T[A0101]|[COPY](https://xlab2017.yuque.com/msdpvs/dtg7ew/26294850)|[RecIssie#83](https://github.com/X-lab2017/open-research/issues/83)|
 
 Notes:
 
