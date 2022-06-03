@@ -1,0 +1,29 @@
+name: Paper Translation
+description: Translate a paper
+title: "[Translation] "
+labels: [kind/translation]
+body:
+- type: textarea
+  attributes:
+    label: Title
+    description: |
+      Title of the paper to be translated.
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Source
+    description: |
+      Please provide the link of the original article.
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Translation
+    description: |
+      Please provide the link of the translated article.
+  validations:
+    required: true
+    
