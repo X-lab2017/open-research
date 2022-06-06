@@ -1,7 +1,7 @@
 name: Paper Recommendation
-description: The process to recommend a paper
-title: "[PaperRec] "
-labels: [kind/论文推荐]
+description: Recommend to add a paper to the paper list.
+title: "[Recommendation] "
+labels: [kind/paper]
 body:
 - type: textarea
   attributes:
