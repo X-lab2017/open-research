@@ -1,34 +1,76 @@
----
-name: Reading Plan Proposal
-about: This issue template helps with the process to propose a paper sharing session.
-title: "[OpenPro]"
-labels: 论文分享
-assignees: ''
+name: Paper Presentation
+description: Propose to share a papar in a scheduled meeting.
+title: "[Presentation] "
+labels: [kind/paper]
+body:
+- type: textarea
+  attributes:
+    label: Title
+    description: |
+      Title of the paper.
+  validations:
+    required: true
 
----
+- type: textarea
+  attributes:
+    label: Link
+    description: |
+       Provide the source link of this paper
+  validations:
+    required: true
 
-<!-- Please refer to [issue#38](https://github.com/X-lab2017/open-research/issues/38) to see the detailed discussion of the process of proposing a reading plan. -->
+- type: textarea
+  attributes:
+    label: Year
+    description: |
+      Year of the paper published.
+  validations:
+    required: true
 
-## Purpose
+- type: textarea
+  attributes:
+    label: Author and affiliation
+    description: |
+      Author and affiliation of the paper.
+  validations:
+    required: true
 
-Plan to share the paper in a sharing session.
+- type: textarea
+  attributes:
+    label: Conference or Journal
+    description: |
+      The conference or journal of the paper published.
+  validations:
+    required: true
 
-## Checklist
-
-- [ ] Title:
-- [ ] Year:
-- [ ] Author and affiliation:
-- [ ] Conference or Journal :
-- [ ] Rank:
-- [ ] Keywords: 
-- [ ] Link:
-- [ ] Selecting Reason:
-- [ ] Supplementary：
-
-
-## Further comments (Optional)
-
-
-
-
-<!-- You can @X-lab2017/x-lab-phd team to review this proposal -->
+- type: textarea
+  attributes:
+    label: Rank
+    description: |
+      Rank(generally CCF) of the conference or journal of the paper published.
+  validations:
+    required: false
+    
+- type: textarea
+  attributes:
+    label: Keywords
+    description: |
+       Please refer to Opendium or Mindmap to select several keywords for this paper.     
+  validations:
+    required: false
+    
+- type: textarea
+  attributes:
+    label: Selecting Reason
+    description: |
+       Please provide the reason why you select to share this paper.
+  validations:
+    required: false
+    
+- type: textarea
+  attributes:
+    label: Supplementary
+    description: |
+       Any other information you wish to provide.
+  validations:
+    required: false 
