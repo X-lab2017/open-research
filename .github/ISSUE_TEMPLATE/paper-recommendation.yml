@@ -1,0 +1,64 @@
+name: Paper Recommendation
+description: The process to recommend a paper
+title: "[PaperRec] "
+labels: [kind/论文推荐]
+body:
+- type: textarea
+  attributes:
+    label: Title
+    description: |
+      Title of the paper.
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Link
+    description: |
+       Provide the source link of this paper
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Year
+    description: |
+      Year of the paper published.
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Conference or Journal
+    description: |
+      The conference or journal of the paper published.
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Rank
+    description: |
+      Rank(generally CCF) of the conference or journal of the paper published.
+  validations:
+    required: false
+    
+- type: textarea
+  attributes:
+    label: Keywords
+    description: |
+       Please refer to Opendium or Mindmap to select several keywords for this paper.     
+  validations:
+    required: false
+    
+- type: textarea
+  attributes:
+    label: Reason for Recommending
+    description: |
+       Please provide the reason why you wish to recommend this paper.
+  validations:
+    required: false
+    
+    
+
+
