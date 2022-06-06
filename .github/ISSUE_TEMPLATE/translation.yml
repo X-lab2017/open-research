@@ -1,5 +1,5 @@
 name: Paper Translation
-description: Translate a paper
+description: Propose to translate a paper
 title: "[Translation] "
 labels: [kind/translation]
 body:
@@ -13,7 +13,7 @@ body:
 
 - type: textarea
   attributes:
-    label: Source
+    label: Source Link
     description: |
       Please provide the link of the original article.
   validations:
@@ -21,7 +21,7 @@ body:
 
 - type: textarea
   attributes:
-    label: Translation
+    label: Translation Link
     description: |
       Please provide the link of the translated article.
   validations:
