@@ -1,6 +1,6 @@
-name: Paper Recommendation
-description: Recommend to add a paper to the paper list.
-title: "[Recommendation] "
+name: Paper Presentation
+description: Propose to share a papar in a scheduled meeting.
+title: "[Presentation] "
 labels: [kind/paper]
 body:
 - type: textarea
@@ -24,6 +24,14 @@ body:
     label: Year
     description: |
       Year of the paper published.
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Author and affiliation
+    description: |
+      Author and affiliation of the paper.
   validations:
     required: true
 
@@ -53,12 +61,16 @@ body:
     
 - type: textarea
   attributes:
-    label: Reason for Recommending
+    label: Selecting Reason
     description: |
-       Please provide the reason why you wish to recommend this paper.
+       Please provide the reason why you select to share this paper.
   validations:
     required: false
     
-    
-
-
+- type: textarea
+  attributes:
+    label: Supplementary
+    description: |
+       Any other information you wish to provide.
+  validations:
+    required: false 
