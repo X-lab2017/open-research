@@ -28,7 +28,7 @@
 15  | 06-06 | 朱香宁 | 开源社区评审过程度量体系及其实证研究 | 夏小雅 | [#85](https://github.com/X-lab2017/open-research/issues/85)
 16  | 06-13 | 20级 | 2020 级开题预答辩 | 夏小雅 | [#87](https://github.com/X-lab2017/open-research/issues/87)
 16  | 06-20 | 史经犇 | Security Challenges in the Container Cloud | 夏小雅 | [#100](https://github.com/X-lab2017/open-research/issues/100)
-17  | 06-27 | 赵生宇 |  | 夏小雅 |
+17  | 06-27 | 赵生宇 | Rank 类论文评价方法串讲 | 夏小雅 | [PPT](https://xlab2017.yuque.com/msdpvs/mif83s/26487589)
 18  | 07-04 | 孙晴 |  | 夏小雅 |
 19  | 07-11 | 毕枫林 |  |  |
 20  |       | 王伟 | 学期小结 & 暑期安排 |  |
