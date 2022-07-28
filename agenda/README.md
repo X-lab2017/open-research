@@ -19,7 +19,7 @@
 |  06   | 03-28 | 张翔宇 | A First Look at Good First Issues on GitHub                  |  陈亮  |                            待补充                            |
 |  07   | 04-11 | 宁志成 | What Makes a Great Maintainer of Open Source Projects?       | 娄泽华 | [#62](https://github.com/X-lab2017/open-research/issues/62)  |
 |  08   | 04-18 | 唐烨男 | 基于贡献分配的开源软件核心开发者评估                         | 娄泽华 | [#69](https://github.com/X-lab2017/open-research/issues/69)  |
-|  09   | 04-25 | 夏小雅 | Why Modern Open Source Projects Fail                         | 娄泽华 |                            待补充                            |
+|  09   | 04-25 | 夏小雅 | Why Modern Open Source Projects Fail                         | 娄泽华 |                            [Link](https://xlab2017.yuque.com/docs/share/79d26140-eee6-4c7f-9ae0-a828d035d125?# )                            |
 |  10   | 05-02 | 吴松林 | Fast Approximate Nearest Neighbor Search With The Navigating Spreading-out Graph | 毕枫林 |                            待补充                            |
 |  11   | 05-09 |  陈亮  | 研究进展分享                                                 | 毕枫林 |                            待补充                            |
 |  12   | 05-16 | 翁振杰 | Studying Software Developer Expertise and Contributions in Stack Overflow and GitHub | 毕枫林 | [#50](https://github.com/X-lab2017/open-research/issues/50)  |
