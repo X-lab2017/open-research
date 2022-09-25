@@ -12,7 +12,7 @@
 | :---: | :---: | :----: | ------------------------------------------------------------ | :----: | :---------------: | :--------: |
 |  01   | 09-12 |  王 伟  | X-lab 新学期开源研究计划                | 陈亮 |   [#112](https://github.com/X-lab2017/open-research/issues/112) |[观看](https://www.bilibili.com/video/BV1yP4y1Z7qF?spm_id_from=333.999.0.0&vd_source=6afe4b8be94a864bf36064ef28580424)|
 |  02   | 09-19 | 夏小雅  | 开源课题研究进展             | 陈亮 | https://github.com/X-lab2017/open-research/issues/114  |  |   |
-|  03   | 09-26 | 赵生宇  | OpenRank 系列算法与模型的前沿进展        | 陈亮 |  |  |   |
+|  03   | 09-26 | 赵生宇  | OpenRank 系列算法与模型的前沿进展        | 陈亮 | https://github.com/X-lab2017/open-research/issues/28 |  |   |
 |  04   |  |  |    | 娄泽华 |  |   |
 |  05   |  |  |    | 娄泽华 |  |   |
 |  06   |  |  |    | 娄泽华 |  |   |
