@@ -14,7 +14,7 @@
 |  02   | 09-19 | 夏小雅  | 开源课题研究进展             | 陈亮 | https://github.com/X-lab2017/open-research/issues/114  |  |
 |  03   | 09-26 | 赵生宇  | OpenRank 系列算法与模型的前沿进展        | 陈亮 | https://github.com/X-lab2017/open-research/issues/28 | [观看](https://www.bilibili.com/video/BV1ge4y1H7QW/) |
 |  04   | 10-10 | 夏小雅<br />毕枫林 |  归档项目研究成果<br />多标签分类综述  | 娄泽华 |https://github.com/X-lab2017/open-research/issues/114  <br />https://github.com/X-lab2017/open-research/issues/120 |  <br />[观看](https://www.bilibili.com/video/BV1QP41177LV/)|
-|  05   |  |  |    | 娄泽华 |  |   |
+|  05   | 10-17 | 娄泽华 |  Predicting the emergence of community smells using socio-technical metrics: A machine-learning approach  | 娄泽华 | https://github.com/X-lab2017/open-research/issues/124 |   |
 |  06   |  |  |    | 娄泽华 |  |   |
 |  07   |  |  |    | 娄泽华 |  |   |
 |  08   |  |  |    | 毕枫林 |  |   |
