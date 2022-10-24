@@ -15,7 +15,7 @@
 |  03   | 09-26 | 赵生宇  | OpenRank 系列算法与模型的前沿进展        | 陈亮 | https://github.com/X-lab2017/open-research/issues/28 | [观看](https://www.bilibili.com/video/BV1ge4y1H7QW/) |
 |  04   | 10-10 | 夏小雅<br />毕枫林 |  归档项目研究成果<br />多标签分类综述  | 娄泽华 |https://github.com/X-lab2017/open-research/issues/114  <br />https://github.com/X-lab2017/open-research/issues/120 |  <br />[观看](https://www.bilibili.com/video/BV1QP41177LV/)|
 |  05   | 10-17 | 娄泽华 |  A method for identifying references between projects in GitHub  | 娄泽华 | https://github.com/X-lab2017/open-research/issues/124 | [观看](https://www.bilibili.com/video/BV1Jg411a7ie/) |
-|  06   | 10-24 | 韩凡宇 |  ASK-RoBERTa: A pretraining model for aspect-based sentiment classification via sentiment knowledge mining  | 娄泽华 | https://github.com/X-lab2017/open-research/issues/128 |   |
+|  06   | 10-24 | 韩凡宇 |  ASK-RoBERTa: A pretraining model for aspect-based sentiment classification via sentiment knowledge mining  | 娄泽华 | https://github.com/X-lab2017/open-research/issues/128 | [观看](https://www.bilibili.com/video/BV1SG411L77U/) |
 |  07   |  |  |    | 娄泽华 |  |   |
 |  08   |  |  |    | 毕枫林 |  |   |
 |  09   |  |  |    | 毕枫林 |  |   |
