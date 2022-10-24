@@ -23,10 +23,10 @@
 | [Brian Fitzgerald](https://lero.ie/people/brian-fitzgerald)  | University of Limerick                                       | Ireland |
 | [Jesús M. González-Barahona](https://gsyc.urjc.es/jgb/)      | [Universidad Rey Juan Carlos](http://www.urjc.es/)           | Spain   |
 | [Gregorio Robles](https://scholar.google.com/citations?user=BhVjp-UAAAAJ&hl=en) | [Universidad Rey Juan Carlos](http://www.urjc.es/)           | Spain   |
+| [Mairieli Wessel](https://mairieli.com/) | [Radboud Universiteit](https://www.ru.nl/) | Netherlands |
 ||||
 || **Asia Pacific** ||
 | [Minghui Zhou](https://minghuizhou.github.io/) | Peking University | China   |
 ||||
 ||**South America**||
 | [Igor Wiese](https://igorwiese.com/)                         | [Federal University of Technology - Paraná (UTFPR)](http://cm.utfpr.edu.br/) | Brazil  |
-| [Mairieli Wessel](https://mairieli.com/) | [Radboud Universiteit](https://www.ru.nl/) | Brazil |
