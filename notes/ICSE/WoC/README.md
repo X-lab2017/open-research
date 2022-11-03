@@ -8,7 +8,7 @@
 
 自2006年以来，国际软件存储库挖掘（MSR）会议主办了挖掘挑战（Mining Challenge）。面对这一挑战，主办方呼吁所有有兴趣的人将他们的工具应用于公共数据集。该挑战希望研究人员和从业者勇敢地使用他们的挖掘工具和方法。
 
-- 介绍文档
+- [介绍文档](https://github.com/X-lab2017/open-research/blob/main/notes/ICSE/WoC/MSR%202023%20Introduction.pdf)
 
 ### Papers
 
