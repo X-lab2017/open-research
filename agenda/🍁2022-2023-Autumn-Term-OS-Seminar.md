@@ -18,7 +18,7 @@
 |  06   | 10-24 | 韩凡宇 |  ASK-RoBERTa: A pretraining model for aspect-based sentiment classification via sentiment knowledge mining  | 娄泽华 | https://github.com/X-lab2017/open-research/issues/128 | [观看](https://www.bilibili.com/video/BV1SG411L77U/) |
 |  07   | 10-31 | 吴双 | MSR 2023 mining challenge 介绍 | 娄泽华 |  | [观看](https://www.bilibili.com/video/BV1Pe4y1t7fZ/) |
 |  08   | 11-07 | 陈亮 |  | 毕枫林 |  |   |
-|  09   |  |  |    | 毕枫林 |  |   |
+|  09   | 11-14 | 唐烨男 |  What Makes a Good Commit Message?  | 毕枫林 |  [#138](https://github.com/X-lab2017/open-research/issues/138) | 待补充 |
 |  10   |  |  |    | 毕枫林 |  |   |
 |  11   |  |  |    | 毕枫林 |  |   |
 |  12   |  |  |    | 赵生宇 |  |   |
