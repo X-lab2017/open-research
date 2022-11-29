@@ -21,7 +21,7 @@
 |  09   | 11-14 | 唐烨男 |  What Makes a Good Commit Message?  | 毕枫林 |  [#138](https://github.com/X-lab2017/open-research/issues/138) | [观看](https://www.bilibili.com/video/BV1Xv4y1m7G6/) |
 |  10   | 11-21 | 张欣然 | “Did You Miss My Comment or What?” Understanding Toxicity in Open Source Discussions | 毕枫林 | https://github.com/X-lab2017/open-research/issues/147 | [观看](https://www.bilibili.com/video/BV1gD4y1x7GT/) |
 |  11   | 11-28 | 宁志成 | Mining the Technical Roles of GitHub Users | 毕枫林 | https://github.com/X-lab2017/open-research/issues/148 |   |
-|  12   |  |  |    | 赵生宇 |  |   |
+|  12   | 12-5 | 张翔宇 | Is this GitHub Project Maintained? Measuring the Level of Maintenance Activity of Open-Source Projects | 赵生宇 | https://github.com/X-lab2017/open-research/issues/151 |   |
 |  13   |  |  |    | 赵生宇 |  |   |
 |  14   |  |  |    | 赵生宇 |  |   |
 |  15   |  |  |    | 赵生宇 |  |   |
