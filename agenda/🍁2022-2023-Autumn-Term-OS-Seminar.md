@@ -17,7 +17,7 @@
 |  05   | 10-17 | 娄泽华 |  A method for identifying references between projects in GitHub  | 娄泽华 | https://github.com/X-lab2017/open-research/issues/124 | [观看](https://www.bilibili.com/video/BV1Jg411a7ie/) |
 |  06   | 10-24 | 韩凡宇 |  ASK-RoBERTa: A pretraining model for aspect-based sentiment classification via sentiment knowledge mining  | 娄泽华 | https://github.com/X-lab2017/open-research/issues/128 | [观看](https://www.bilibili.com/video/BV1SG411L77U/) |
 |  07   | 10-31 | 吴双 | MSR 2023 mining challenge 介绍 | 娄泽华 | https://github.com/X-lab2017/open-research/issues/140 | [观看](https://www.bilibili.com/video/BV1Pe4y1t7fZ/) |
-|  08   | 11-07 | 陈亮 | 毕业论文进展分享 | 毕枫林 |  |   |
+|  08   | 11-07 | 陈亮 | 毕业论文进展分享 | 毕枫林 | https://github.com/X-lab2017/open-research/issues/153 |   |
 |  09   | 11-14 | 唐烨男 |  What Makes a Good Commit Message?  | 毕枫林 |  [#138](https://github.com/X-lab2017/open-research/issues/138) | [观看](https://www.bilibili.com/video/BV1Xv4y1m7G6/) |
 |  10   | 11-21 | 张欣然 | “Did You Miss My Comment or What?” Understanding Toxicity in Open Source Discussions | 毕枫林 | https://github.com/X-lab2017/open-research/issues/147 | [观看](https://www.bilibili.com/video/BV1gD4y1x7GT/) |
 |  11   | 11-28 | 宁志成 | Mining the Technical Roles of GitHub Users | 毕枫林 | https://github.com/X-lab2017/open-research/issues/148 |   |
