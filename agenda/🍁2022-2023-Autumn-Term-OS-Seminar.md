@@ -23,7 +23,7 @@
 |  11   | 11-28 | 宁志成 | Mining the Technical Roles of GitHub Users | 毕枫林 | https://github.com/X-lab2017/open-research/issues/148 | [观看](https://www.bilibili.com/video/BV1cW4y1g7mb/) |
 |  12   | 12-5 | 张翔宇 | Is this GitHub Project Maintained? Measuring the Level of Maintenance Activity of Open-Source Projects | 夏小雅 | https://github.com/X-lab2017/open-research/issues/151 | [观看](https://www.bilibili.com/video/BV1y841157YX/?spm_id_from=333.999.list.card_archive.click&vd_source=37c10025795d1f8e2b83566b734c8382)  |
 |  13   | 12-12 | 伍泰炜 | Modeling and Recommending Open Source Licenses with findOSSLicense   | 夏小雅 | https://github.com/X-lab2017/open-research/issues/155 | [观看](https://www.bilibili.com/video/BV1qv4y1X7Lj/?spm_id_from=333.999.0.0) |
-|  14   |  |  |    | 夏小雅 |  |   |
+|  14   | 12-19 | 李鸿斌 | How Has Forking Changed in the Last 20 Years?A Study of Hard Forks on GitHub  | 夏小雅 | https://github.com/X-lab2017/open-research/issues/159  |   |
 |  15   |  |  |    | 夏小雅 |  |   |
 |  16   |  |  |    | 待定 |  |   |
 |  17   |  |  |    | 待定 |  |   |
