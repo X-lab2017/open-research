@@ -21,9 +21,9 @@
 |  09   | 11-14 | 唐烨男 |  What Makes a Good Commit Message?  | 毕枫林 |  [#138](https://github.com/X-lab2017/open-research/issues/138) | [观看](https://www.bilibili.com/video/BV1Xv4y1m7G6/) |
 |  10   | 11-21 | 张欣然 | “Did You Miss My Comment or What?” Understanding Toxicity in Open Source Discussions | 毕枫林 | https://github.com/X-lab2017/open-research/issues/147 | [观看](https://www.bilibili.com/video/BV1gD4y1x7GT/) |
 |  11   | 11-28 | 宁志成 | Mining the Technical Roles of GitHub Users | 毕枫林 | https://github.com/X-lab2017/open-research/issues/148 | [观看](https://www.bilibili.com/video/BV1cW4y1g7mb/) |
-|  12   | 12-5 | 张翔宇 | Is this GitHub Project Maintained? Measuring the Level of Maintenance Activity of Open-Source Projects | 夏小雅 | https://github.com/X-lab2017/open-research/issues/151 | [观看](https://www.bilibili.com/video/BV1y841157YX/?spm_id_from=333.999.list.card_archive.click&vd_source=37c10025795d1f8e2b83566b734c8382)  |
-|  13   | 12-12 | 伍泰炜 | Modeling and Recommending Open Source Licenses with findOSSLicense   | 夏小雅 | https://github.com/X-lab2017/open-research/issues/155 | [观看](https://www.bilibili.com/video/BV1qv4y1X7Lj/?spm_id_from=333.999.0.0) |
-|  14   | 12-19 | 李鸿斌 | How Has Forking Changed in the Last 20 Years?A Study of Hard Forks on GitHub  | 夏小雅 | https://github.com/X-lab2017/open-research/issues/159  |   |
+|  12   | 12-5 | 张翔宇 | Is this GitHub Project Maintained? Measuring the Level of Maintenance Activity of Open-Source Projects | 夏小雅 | https://github.com/X-lab2017/open-research/issues/151 | [观看](https://www.bilibili.com/video/BV1y841157YX/)  |
+|  13   | 12-12 | 伍泰炜 | Modeling and Recommending Open Source Licenses with findOSSLicense   | 夏小雅 | https://github.com/X-lab2017/open-research/issues/155 | [观看](https://www.bilibili.com/video/BV1qv4y1X7Lj/) |
+|  14   | 12-19 | 李鸿斌 | How Has Forking Changed in the Last 20 Years?A Study of Hard Forks on GitHub  | 夏小雅 | https://github.com/X-lab2017/open-research/issues/159  | [观看](https://www.bilibili.com/video/BV1xK411z7B2/)  |
 |  15   |  |  |    | 夏小雅 |  |   |
 |  16   |  |  |    | 待定 |  |   |
 |  17   |  |  |    | 待定 |  |   |
