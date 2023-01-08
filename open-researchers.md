@@ -17,6 +17,7 @@
 | [Sean P.Goggins](https://www.seangoggins.net/)               | University of Missouri                                   | Missouri, USA   |
 | [Daniela Damian](https://www.danieladamian.ca/)              | University of Victoria                                   | BC, Canada      |
 | [Michael W. Godfrey](https://uwaterloo.ca/computer-science/people-profiles/michael-godfrey) | University of Waterloo                                   | Ontario, Canada |
+| [Bogdan Vasilescu](https://bvasiles.github.io/)              | Carnegie Mellon University                               | Pittsburgh, USA |
 ||||
 || **Europe** ||
 | [Dirk Riehle](https://dirkriehle.com/about/)                 | [Friedrich-Alexander University Erlangen-Nürnberg](https://www.fau.de/) | Germany |
