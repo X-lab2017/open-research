@@ -24,11 +24,9 @@
 |  12   | 12-5 | 张翔宇 | Is this GitHub Project Maintained? Measuring the Level of Maintenance Activity of Open-Source Projects | 夏小雅 | https://github.com/X-lab2017/open-research/issues/151 | [观看](https://www.bilibili.com/video/BV1y841157YX/)  |
 |  13   | 12-12 | 伍泰炜 | Modeling and Recommending Open Source Licenses with findOSSLicense   | 夏小雅 | https://github.com/X-lab2017/open-research/issues/155 | [观看](https://www.bilibili.com/video/BV1qv4y1X7Lj/) |
 |  14   | 12-19 | 李鸿斌 | How Has Forking Changed in the Last 20 Years?A Study of Hard Forks on GitHub  | 夏小雅 | https://github.com/X-lab2017/open-research/issues/159  | [观看](https://www.bilibili.com/video/BV1xK411z7B2/)  |
-|  15   |  |  |    | 夏小雅 |  |   |
-|  16   |  |  |    | 待定 |  |   |
-|  17   |  |  |    | 待定 |  |   |
-|  18   |  |  |    | 待定 |  |   |
-
+|  15   | 12-26 | 夏小雅、毕枫林 | 博士开题预答辩   | 夏小雅 |  |   |
+|  16   | 01-02 | - | 元的放假 |  |  |   |
+|  17   | 01-09 | 王伟 | X-lab 开放实验室学期总结 |  |  |   |
 
 
 ****
