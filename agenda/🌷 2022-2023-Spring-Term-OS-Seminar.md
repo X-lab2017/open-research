@@ -13,7 +13,7 @@
 |  01   | 2.27 |  王 伟 | X-lab 新学期开源研究计划                                        | 陈亮   |   [PPT 报告](https://xlab2017.yuque.com/msdpvs/mif83s/30414909)                 |            |
 |  02   | 3.6  | 陈亮   | 博士论文   | 陈亮 |  |  |
 |  03   | 3.13 | 史经犇 & 朱香宁 & 陈旭刚 | 硕士论文 | 陈亮 |  |  |
-|  04   | 3.27 | 赵生宇 |    | 陈亮 |  |  |
+|  04   | 3.27 | 赵生宇 | OpenRank 一种开源社区贡献计算方法 | 陈亮 | [PPT](https://xlab2017.yuque.com/msdpvs/mif83s/30675534) | [Video](https://www.bilibili.com/video/BV1kk4y1478h/) |
 |  05   | 4.3 | 夏小雅 | 软件工程研究分享 | 娄泽华 | [Note](https://xlab2017.yuque.com/me1x4f/opensource/ypgk1xax9ni5bsge) | [Video](https://www.bilibili.com/video/BV1vX4y1k7yf/) |
 |  06   | 4.10  | 娄泽华 |    | 娄泽华 | |  |
 |  07   | 4.17 | 毕枫林 |  | 娄泽华 |  |  |
