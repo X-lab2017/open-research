@@ -15,7 +15,7 @@
 |  03   | 3.13 | 史经犇 & 朱香宁 & 陈旭刚 | 硕士论文 | 陈亮 |  |  |
 |  04   | 3.27 | 赵生宇 | OpenRank 一种开源社区贡献计算方法 | 陈亮 | [PPT](https://xlab2017.yuque.com/msdpvs/mif83s/30675534) | [Video](https://www.bilibili.com/video/BV1kk4y1478h/) |
 |  05   | 4.3 | 夏小雅 | 软件工程研究分享 | 娄泽华 | [Note](https://xlab2017.yuque.com/me1x4f/opensource/ypgk1xax9ni5bsge) | [Video](https://www.bilibili.com/video/BV1vX4y1k7yf/) |
-|  06   | 4.10  | 娄泽华 |An Empirical Study of Link Sharing in Review Comments-Jing Jiang et,al| 娄泽华 |[PDF](https://link.springer.com/content/pdf/10.1007/978-981-15-0310-8_7.pdf?pdf=inline%20link)|  |
+|  06   | 4.10  | 娄泽华 | An Empirical Study of Link Sharing in Review Comments-[Jing Jiang](https://sei.buaa.edu.cn/info/1082/1121.htm), Jin Cao and [Li Zhang](https://shi.buaa.edu.cn/06453/zh_CN/lwcg/21887/list/index.htm) | 娄泽华 |[PDF](https://link.springer.com/content/pdf/10.1007/978-981-15-0310-8_7.pdf?pdf=inline%20link), [PPT](https://xlab2017.yuque.com/msdpvs/mif83s/30683280)| [Video](https://www.bilibili.com/video/BV1rM411N7RQ/) |
 |  07   | 4.17 | 毕枫林 |  | 娄泽华 |  |  |
 |  08   | 4.24 | 吴双 |  | 娄泽华 |  |   |
 |  09   | 5.1 | —— |    | |  |  |
