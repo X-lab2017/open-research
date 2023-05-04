@@ -19,7 +19,7 @@
 |  07   | 4.17 | 毕枫林 | BotHawk: A ensemble model for Bot Detection in Open Source Software Projects | 娄泽华 | [PPT](https://xlab2017.yuque.com/msdpvs/mif83s/30728975) | [Video](https://www.bilibili.com/video/BV1ha4y1P79w/) |
 |  08   | 4.24 | 王永雷老师 | 开源供应链分享 | 娄泽华 |  | [Video](https://www.bilibili.com/video/BV1no4y1L7X7/)  |
 |  09   | 5.6（补）| 吴双 |    | |  |  |
-|  10   | 5.8 | 唐烨男 |  | 毕枫林 |  |  |
+|  10   | 5.8 | 唐烨男 | Demystifying Software Release Note Issues on GitHub | 毕枫林 | [#169](https://github.com/X-lab2017/open-research/issues/169) |  |
 |  11   | 5.15 | 张欣然 |  | 毕枫林 |  |  |
 |  12   | 5.22 | 宁志成 |  | 毕枫林 |  |   |
 |  13   | 5.29 | 张翔宇 |  | 毕枫林 |  |  |
