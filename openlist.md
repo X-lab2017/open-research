@@ -55,6 +55,7 @@ Table of Contents
 |0045| Mining the Technical Roles of GitHub Users |Information and Software Technology|2021|CCF B|Technical roles, Technical expertise, Developers profiles, Machine learning, GitHub|T[A0101]|[COPY](https://xlab2017.yuque.com/msdpvs/dtg7ew/26294850)|[RecIssie#83](https://github.com/X-lab2017/open-research/issues/83)|
 |0046| Progresses and challenges in link prediction |iScience|2021|-|Link prediction, similarity indices, link predictability, evaluation metrics|P[B0103]|[[Copy](https://xlab2017.yuque.com/msdpvs/dtg7ew/26305991)]|[[RecIssue#90](https://github.com/X-lab2017/open-research/issues/90)]|
 |0047| The Emerging Trends of Multi-Label Learning |IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE|2021|A|Multi-label Learning||[Copy](https://arxiv.org/pdf/2011.11197.pdf)||
+|0048| Demystifying Software Release Note Issues on GitHub |30th IEEE/ACM International Conference on Program Comprehension|2022|B|release engineering, release note, empirical study, taxonomy||[Copy](https://doi.org/10.1145/3524610.3527919)|[RecIssue#169]|
 
 Notes:
 
