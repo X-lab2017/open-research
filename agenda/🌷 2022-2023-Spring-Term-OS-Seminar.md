@@ -23,7 +23,7 @@
 |  11   | 5.15 | 张欣然 | Identifying Emergent Leadership in OSS Projects Based on Communication Styles | 毕枫林 | [#177](https://github.com/X-lab2017/open-research/issues/177) | [Video](https://www.bilibili.com/video/BV1Bu411t7Fu/) |
 |  12   | 5.22 | 宁志成 | Personalized project recommendation on GitHub | 毕枫林 | [#178](https://github.com/X-lab2017/open-research/issues/178) | [Video](https://www.bilibili.com/video/BV1Mh4y1o7kj/) |
 |  13   | 5.29 | 张翔宇 | Activity-Based Analysis of Open Source Software Contributors: Roles and Dynamics | 毕枫林 | [#182](https://github.com/X-lab2017/open-research/issues/182) | [Video](https://www.bilibili.com/video/BV1nc411G7XM/) |
-|  14   | 6.5 | 伍泰炜 |   | 毕枫林 |   |  |
+|  14   | 6.5 | 伍泰炜 | CodeQA: A Question Answering Dataset for Source Code Comprehension | 毕枫林 | [#188](https://github.com/X-lab2017/open-research/issues/188) |  |
 |  15   | 6.12  | 李鸿斌 |    |夏小雅  |  |   |
 |  16   | 6.19 | 黄温瑞 |    | 夏小雅 |  |   |
 |  17   | 6.26 | 王婕 |    | 夏小雅 |  |  |
