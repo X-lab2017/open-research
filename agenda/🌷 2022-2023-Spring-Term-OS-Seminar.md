@@ -24,7 +24,7 @@
 |  12   | 5.22 | 宁志成 | Personalized project recommendation on GitHub | 毕枫林 | [#178](https://github.com/X-lab2017/open-research/issues/178) | [Video](https://www.bilibili.com/video/BV1Mh4y1o7kj/) |
 |  13   | 5.29 | 张翔宇 | Activity-Based Analysis of Open Source Software Contributors: Roles and Dynamics | 毕枫林 | [#182](https://github.com/X-lab2017/open-research/issues/182) | [Video](https://www.bilibili.com/video/BV1nc411G7XM/) |
 |  14   | 6.5 | 伍泰炜 | CodeQA: A Question Answering Dataset for Source Code Comprehension | 毕枫林 | [#188](https://github.com/X-lab2017/open-research/issues/188) | [Video](https://www.bilibili.com/video/BV1Ts4y1q7oY/?vd_source=6afe4b8be94a864bf36064ef28580424) |
-|  15   | 6.12  | 李鸿斌 |    |夏小雅  |  |   |
+|  15   | 6.12  | 李鸿斌 |  Recommending Good First Issues in GitHub OSS Projects  |夏小雅  | [#194](https://github.com/X-lab2017/open-research/issues/194) |   |
 |  16   | 6.19 | 黄温瑞 |    | 夏小雅 |  |   |
 |  17   | 6.26 | 王婕 |    | 夏小雅 |  |  |
 |  18   | 7.3 | 朱志炜 |    | 夏小雅 |  |  |
