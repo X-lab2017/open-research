@@ -26,7 +26,7 @@
 |  14   | 6.5 | 伍泰炜 | CodeQA: A Question Answering Dataset for Source Code Comprehension | 毕枫林 | [#188](https://github.com/X-lab2017/open-research/issues/188) | [Video](https://www.bilibili.com/video/BV1Ts4y1q7oY/?vd_source=6afe4b8be94a864bf36064ef28580424) |
 |  15   | 6.12  | 李鸿斌 |  Recommending Good First Issues in GitHub OSS Projects  |夏小雅  | [#194](https://github.com/X-lab2017/open-research/issues/194) |  [Video](https://www.bilibili.com/video/BV1aj411D7RF/) |
 |  16   | 6.19 | 朱志炜 |  Analysis and Detection of Information Types of Open Source Software Issue Discussions  | 夏小雅 | [#196](https://github.com/X-lab2017/open-research/issues/196) |   |
-|  17   | 6.26 | 王婕 |    | 夏小雅 |  |  |
+|  17   | 6.26 | 王婕 |  To Follow or Not to Follow: Understanding Issue/ Pull-Request Templates on GitHub  | 夏小雅 | [#200](https://github.com/X-lab2017/open-research/issues/200) |  |
 |  18   | 7.3 | 黄温瑞 |    | 夏小雅 |  |  |
 
 ****
