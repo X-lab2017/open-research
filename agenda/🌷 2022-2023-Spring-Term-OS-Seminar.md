@@ -28,6 +28,6 @@
 |  16   | 6.19 | 朱志炜 |  Analysis and Detection of Information Types of Open Source Software Issue Discussions  | 夏小雅 | [#196](https://github.com/X-lab2017/open-research/issues/196) |   |
 |  17   | 6.26 | 王婕 |  To Follow or Not to Follow: Understanding Issue/Pull-Request Templates on GitHub  | 夏小雅 | [#200](https://github.com/X-lab2017/open-research/issues/200) |  |
 |  18   | 7.3 | 黄温瑞 |  CORMS: a GitHub and Gerrit based hybrid code reviewer recommendation approach for modern code review  | 夏小雅 |[#202](https://github.com/X-lab2017/open-research/issues/202)  |  |
-| 19 | 7.7 | 王老师 | 学期总结与暑期规划 | 毕枫林 | | [Video](https://www.bilibili.com/video/BV1PV4y1h78B/) |
+| 19 | 7.7 | 王老师 | 学期总结与暑期规划 | 毕枫林 |[#169](https://github.com/X-lab2017/open-wonderland/issues/290) | [Video](https://www.bilibili.com/video/BV1PV4y1h78B/) |
 
 ****
