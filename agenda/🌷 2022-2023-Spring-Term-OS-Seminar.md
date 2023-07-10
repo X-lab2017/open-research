@@ -24,10 +24,10 @@
 |  12   | 5.22 | 宁志成 | Personalized project recommendation on GitHub | 毕枫林 | [#178](https://github.com/X-lab2017/open-research/issues/178) | [Video](https://www.bilibili.com/video/BV1Mh4y1o7kj/) |
 |  13   | 5.29 | 张翔宇 | Activity-Based Analysis of Open Source Software Contributors: Roles and Dynamics | 毕枫林 | [#182](https://github.com/X-lab2017/open-research/issues/182) | [Video](https://www.bilibili.com/video/BV1nc411G7XM/) |
 |  14   | 6.5 | 伍泰炜 | CodeQA: A Question Answering Dataset for Source Code Comprehension | 毕枫林 | [#188](https://github.com/X-lab2017/open-research/issues/188) | [Video](https://www.bilibili.com/video/BV1Ts4y1q7oY/?vd_source=6afe4b8be94a864bf36064ef28580424) |
-|  15   | 6.12  | 李鸿斌 |  Recommending Good First Issues in GitHub OSS Projects  |夏小雅  | [#194](https://github.com/X-lab2017/open-research/issues/194) |  [Video](https://www.bilibili.com/video/BV1aj411D7RF/) |
+|  15   | 6.12  | 李鸿斌 |  Recommending Good First Issues in GitHub OSS Projects  | 夏小雅 | [#194](https://github.com/X-lab2017/open-research/issues/194) |  [Video](https://www.bilibili.com/video/BV1aj411D7RF/) |
 |  16   | 6.19 | 朱志炜 |  Analysis and Detection of Information Types of Open Source Software Issue Discussions  | 夏小雅 | [#196](https://github.com/X-lab2017/open-research/issues/196) | [Video](https://www.bilibili.com/video/BV1cM4y1j7sy/) |
-|  17   | 6.26 | 王婕 |  To Follow or Not to Follow: Understanding Issue/Pull-Request Templates on GitHub  | 夏小雅 | [#200](https://github.com/X-lab2017/open-research/issues/200) |  |
-|  18   | 7.3 | 黄温瑞 |  CORMS: a GitHub and Gerrit based hybrid code reviewer recommendation approach for modern code review  | 夏小雅 |[#202](https://github.com/X-lab2017/open-research/issues/202)  |  |
+|  17   | 6.26 | 王婕 |  To Follow or Not to Follow: Understanding Issue/Pull-Request Templates on GitHub  | 夏小雅 | [#200](https://github.com/X-lab2017/open-research/issues/200) | [Video](https://www.bilibili.com/video/BV1PM4y1j7YP/?vd_source=6afe4b8be94a864bf36064ef28580424) |
+|  18   | 7.3 | 黄温瑞 |  CORMS: a GitHub and Gerrit based hybrid code reviewer recommendation approach for modern code review  | 夏小雅 |[#202](https://github.com/X-lab2017/open-research/issues/202)  | [Video](https://www.bilibili.com/video/BV1HN411m79X/?vd_source=6afe4b8be94a864bf36064ef28580424) |
 | 19 | 7.7 | 王老师 | 学期总结与暑期规划 | 毕枫林 |[#169](https://github.com/X-lab2017/open-wonderland/issues/290) | [Video](https://www.bilibili.com/video/BV1PV4y1h78B/) |
 
 ****
