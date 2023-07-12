@@ -29,24 +29,25 @@
 
 ### Conference and Jounal Paper
 
-1. 预留
-2. Liang Chen, Yun Yang, Wei Wang, **Temporal Autoregressive Matrix Factorization for High-dimensional Time Series prediction of OSS**, IEEE Transactions on Neural Networks and Learning Systems, 2023.
-3. Xiaxiaoya, Shengyu Zhao, Wei Wang, **Understanding the Archived Projects on GitHub**, SANER 2023.
-4. Lessons Learned From tht Ant Group Open Source Program Office, IEEE Computer, 2023.
-5. Zehua Lou, Guanyu Liang, et al., **A Data Engineering Method for Filtering and Identifying Open Source Software Supply Chain**, ICBDA 2023.
-6. Xiaoya Xia, Wei Wang et al., **Exploring Activity and Contributors on GitHub Who, What, When, and Where**, APSEC 2023.
-7. Haiming Lin, Guanyu Liang, et al., **Open Source Software Supply Chain Recommendation Based on Heterogeneous Information Network**, Bench 2022.
-8. 孙晴, 梁冠宇等, **数据驱动的开源软件供应链维护性风险分析方法**, 华东师范大学学报 (自然科学版), 2022 年 9 月.
-9.	Liang Chen, Wei Wang∗, Yun Yang, **CELOF: Effective and fast memory efficient local outlier detection in high-dimensional data streams**, Applied Soft Computing Journal, 2021, 102(4): 107-118.
-10.	Liang Chen, Wei Wang∗, Yun Yang, Yaoqiang Xu, **A novel robust prediction algorithm based on REMD-MWNN for AIOps**, Knowledge-Based Systems, 2021, 228(9): 107038.
-11.	Liang Chen, Wei Wang*, **An Efficient Dynamic Neural Network for Predicting Time Series Data Stream**, The 18th International Symposium on Parallel and Distributed Processing with Application (ISPA 2020), 2020.
-12.	Bin Su, Kai Zheng, Wei Wang∗, **A GitHub Project Recommendation Model Based on Self-Attention Sequence**, BDE 2021.
-13.	Tianyi Zhou, Wei Wang∗, Shengyu Zhao, **Open Source Galaxy: Heterogeneous Information Networks in Social Coding**, IEEE 6th International Conference on Big Data Analytics (ICBDA), 2021
-14.	范家宽, 王皓月, 赵生宇, 周添一, 王伟∗, **数据驱动的开源贡献度量化评估与持续优化方法**, 计算机科学, 2021, 48(5): 45-50.
-15.	Wei Wang∗, Liqing Zhang, Dong Guo, et al., **Reg: An Ultra-lightweight Container that Maximizes Memory Sharing and Minimizes the Runtime Environment**, The 2019 International Conference on Web Services (ICWS), IEEE Computer Society, 2019.
-16.	Wenjun Huo, Wei Wang∗, Wen Li, **AnomalyDetect: An Online Distance-Based Anomaly Detection Algorithm**, 2019 International Conference on Web Services (ICWS 2019), San Diego, USA, June 25 - June 30, 2019.
-17.	Wei Wang∗, Hao Wang, Bo Yang, et al., **A Bayesian Network Based Knowledge Engineering Framework for IT Service Management**, IEEE Transactions on Services Computing, 2013, 6(1): 76-88.
-18.	Wei Wang∗, Guosun Zeng, **Cloud-DLS: Dynamic Trusted Scheduling for Cloud Computing**, Expert System with Applications, 2012, 39(3): 2321-2329.
+1. Xiaoya Xiao, Shengyu Zhao, Wei Wang, et al., **Motivating Open Source Collaborations Through Social Network Evaluation: A Gamification Practice from Alibaba**, in submission.
+2. Fenglin Bi, Wei Wang, et al., **BotHawk: An approach for Bots detection in Open Source Software Projects**, in submission.
+3. Liang Chen, Yun Yang, Wei Wang, **Temporal Autoregressive Matrix Factorization for High-dimensional Time Series prediction of OSS**, IEEE Transactions on Neural Networks and Learning Systems, 2023.
+4. Xiaxiaoya, Shengyu Zhao, Wei Wang, **Understanding the Archived Projects on GitHub**, SANER 2023.
+5. Xiaxiaoya, Shengyu Zhao, Wei Wang, **Lessons Learned From tht Ant Group Open Source Program Office**, IEEE Computer, 2023.
+6. Zehua Lou, Guanyu Liang, et al., **A Data Engineering Method for Filtering and Identifying Open Source Software Supply Chain**, ICBDA 2023.
+7. Xiaoya Xia, Wei Wang et al., **Exploring Activity and Contributors on GitHub Who, What, When, and Where**, APSEC 2023.
+8. Haiming Lin, Guanyu Liang, et al., **Open Source Software Supply Chain Recommendation Based on Heterogeneous Information Network**, Bench 2022.
+9. 孙晴, 梁冠宇等, **数据驱动的开源软件供应链维护性风险分析方法**, 华东师范大学学报 (自然科学版), 2022 年 9 月.
+10.	Liang Chen, Wei Wang∗, Yun Yang, **CELOF: Effective and fast memory efficient local outlier detection in high-dimensional data streams**, Applied Soft Computing Journal, 2021, 102(4): 107-118.
+11.	Liang Chen, Wei Wang∗, Yun Yang, Yaoqiang Xu, **A novel robust prediction algorithm based on REMD-MWNN for AIOps**, Knowledge-Based Systems, 2021, 228(9): 107038.
+12.	Liang Chen, Wei Wang*, **An Efficient Dynamic Neural Network for Predicting Time Series Data Stream**, The 18th International Symposium on Parallel and Distributed Processing with Application (ISPA 2020), 2020.
+13.	Bin Su, Kai Zheng, Wei Wang∗, **A GitHub Project Recommendation Model Based on Self-Attention Sequence**, BDE 2021.
+14.	Tianyi Zhou, Wei Wang∗, Shengyu Zhao, **Open Source Galaxy: Heterogeneous Information Networks in Social Coding**, IEEE 6th International Conference on Big Data Analytics (ICBDA), 2021
+15.	范家宽, 王皓月, 赵生宇, 周添一, 王伟∗, **数据驱动的开源贡献度量化评估与持续优化方法**, 计算机科学, 2021, 48(5): 45-50.
+16.	Wei Wang∗, Liqing Zhang, Dong Guo, et al., **Reg: An Ultra-lightweight Container that Maximizes Memory Sharing and Minimizes the Runtime Environment**, The 2019 International Conference on Web Services (ICWS), IEEE Computer Society, 2019.
+17.	Wenjun Huo, Wei Wang∗, Wen Li, **AnomalyDetect: An Online Distance-Based Anomaly Detection Algorithm**, 2019 International Conference on Web Services (ICWS 2019), San Diego, USA, June 25 - June 30, 2019.
+18.	Wei Wang∗, Hao Wang, Bo Yang, et al., **A Bayesian Network Based Knowledge Engineering Framework for IT Service Management**, IEEE Transactions on Services Computing, 2013, 6(1): 76-88.
+19.	Wei Wang∗, Guosun Zeng, **Cloud-DLS: Dynamic Trusted Scheduling for Cloud Computing**, Expert System with Applications, 2012, 39(3): 2321-2329.
 
 ### Thesis & Dissertation
 
