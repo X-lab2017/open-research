@@ -11,7 +11,7 @@
 | 周数📆| 日期🕣| 分享🙋 | 内容📒                                                       | 主持💂‍♂️ |   关联 Issue📌   | 视频记录🎥 |
 | :---: | :---: | :----: | ------------------------------------------------------------ | :----: | :---------------: | :--------: |
 |  01   | 09-11 |  王 伟  | X-lab 新学期开源研究计划  | 毕枫林 | https://github.com/X-lab2017/open-research/issues/211 | https://www.bilibili.com/video/BV1tH4y1D7HE/ |
-|  02   | 09-18 | 韩凡宇 | Improving Language Understandingby Generative Pre-Training（GPT1.0）| 毕枫林 | https://github.com/X-lab2017/open-research/issues/215 |  |
+|  02   | 09-18 | 韩凡宇 | Improving Language Understandingby Generative Pre-Training（GPT1.0）| 毕枫林 | https://github.com/X-lab2017/open-research/issues/215 | https://www.bilibili.com/video/BV1Ym4y15779/?vd_source=6afe4b8be94a864bf36064ef28580424 |
 |  03   | 09-25 | 娄泽华 |   | 毕枫林 |  |  |
 |  04   | 10-02 | - |  |  |  |  |
 |  05   | 10-09 | 赵生宇 |  |  |  |  |
