@@ -14,9 +14,9 @@
 |  02   | 09-18 | 韩凡宇 | Improving Language Understandingby Generative Pre-Training（GPT1.0）| 毕枫林 | https://github.com/X-lab2017/open-research/issues/215 | https://www.bilibili.com/video/BV1Ym4y15779/?vd_source=6afe4b8be94a864bf36064ef28580424 |
 |  03   | 09-25 | 娄泽华 | Impact of developer turnover on quality in open-source software | 毕枫林 | https://github.com/X-lab2017/open-research/issues/218 | https://www.bilibili.com/video/BV17w411c7TL/ |
 |  04   | 10-02 | - |  |  |  |  |
-|  05   | 10-09 | 赵生宇 |  |  |  |  |
-|  06   | 10-16 | 夏小雅 |  |  |  |  |
-|  07   | 10-23 | 毕枫林 |  |  |  |  |
+|  05   | 10-16 | 毕枫林 | in-toto: Providing farm-to-table guarantees for bits and bytes | 毕枫林 | https://github.com/X-lab2017/open-research/issues/225 |  |
+|  06   | 10-23 | 夏小雅 |  |  |  |  |
+|  07   | 10-23 | 赵生宇 |  |  |  |  |
 |  08   | 10-30 |  |  |  |  |  |
 |  09   | 11-06 |  |  |  |  |  |
 |  10   | 11-13 |  |  |  |  |  |
