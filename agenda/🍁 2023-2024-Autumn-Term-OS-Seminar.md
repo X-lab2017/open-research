@@ -15,11 +15,11 @@
 |  03   | 09-25 | 娄泽华 | Impact of developer turnover on quality in open-source software | 毕枫林 | https://github.com/X-lab2017/open-research/issues/218 | https://www.bilibili.com/video/BV17w411c7TL/ |
 |  04   | 10-02 | - |  |  |  |  |
 |  05   | 10-16 | 毕枫林 | in-toto: Providing farm-to-table guarantees for bits and bytes | 毕枫林 | https://github.com/X-lab2017/open-research/issues/225 | https://www.bilibili.com/video/BV13w411w7qh |
-|  06   | 10-23 | 夏小雅 |  |  |  |  |
-|  07   | 10-23 | 赵生宇 |  |  |  |  |
-|  08   | 10-30 |  |  |  |  |  |
-|  09   | 11-06 |  |  |  |  |  |
-|  10   | 11-13 |  |  |  |  |  |
+|  06   | 10-23 | 夏小雅 | OSSLab 工作成果介绍与 X-lab 论文投稿促进 | 娄泽华 | https://github.com/X-lab2017/open-research/issues/229 | https://www.bilibili.com/video/BV1Jc411o7bq/ |
+|  07   | 10-23 | 赵生宇 | OpenRank相关介绍 | 娄泽华 |  |  |
+|  08   | 10-30 |  |  | 娄泽华 |  |  |
+|  09   | 11-06 |  |  | 娄泽华 |  |  |
+|  10   | 11-13 | 唐烨男 |  |  |  |  |
 |  11   | 11-20 |  |  |  |  |  |
 |  12   | 11-27 |  |  |  |  |  |
 |  13   | 12-04 |  |  |  |  |  |
