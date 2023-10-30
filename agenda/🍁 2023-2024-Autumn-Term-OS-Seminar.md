@@ -12,14 +12,14 @@
 | :---: | :---: | :----: | ------------------------------------------------------------ | :----: | :---------------: | :--------: |
 |  01   | 09-11 |  王 伟  | X-lab 新学期开源研究计划  | 毕枫林 | https://github.com/X-lab2017/open-research/issues/211 | https://www.bilibili.com/video/BV1tH4y1D7HE/ |
 |  02   | 09-18 | 韩凡宇 | Improving Language Understandingby Generative Pre-Training（GPT1.0）| 毕枫林 | https://github.com/X-lab2017/open-research/issues/215 | https://www.bilibili.com/video/BV1Ym4y15779/?vd_source=6afe4b8be94a864bf36064ef28580424 |
-|  03   | 09-25 | 娄泽华 | Impact of developer turnover on quality in open-source software | 毕枫林 | https://github.com/X-lab2017/open-research/issues/218 | https://www.bilibili.com/video/BV17w411c7TL/ |
+|  03   | 09-25 | - |  |  |  |  |
 |  04   | 10-02 | - |  |  |  |  |
-|  05   | 10-16 | 毕枫林 | in-toto: Providing farm-to-table guarantees for bits and bytes | 毕枫林 | https://github.com/X-lab2017/open-research/issues/225 | https://www.bilibili.com/video/BV13w411w7qh |
-|  06   | 10-23 | 夏小雅 | OSSLab 工作成果介绍与 X-lab 论文投稿促进 | 娄泽华 | https://github.com/X-lab2017/open-research/issues/229 | https://www.bilibili.com/video/BV1Jc411o7bq/ |
-|  07   | 10-23 | 赵生宇 | OpenRank相关介绍 | 娄泽华 |  |  |
-|  08   | 10-30 |  |  | 娄泽华 |  |  |
-|  09   | 11-06 |  |  | 娄泽华 |  |  |
-|  10   | 11-13 | 唐烨男 |  |  |  |  |
+|  05   | 10-09 | 娄泽华 | Impact of developer turnover on quality in open-source software | 毕枫林 | https://github.com/X-lab2017/open-research/issues/218 | https://www.bilibili.com/video/BV17w411c7TL/ |
+|  06   | 10-16 | 毕枫林 | in-toto: Providing farm-to-table guarantees for bits and bytes | 毕枫林 | https://github.com/X-lab2017/open-research/issues/225 | https://www.bilibili.com/video/BV13w411w7qh |
+|  07   | 10-23 | 夏小雅 | OSSLab 工作成果介绍与 X-lab 论文投稿促进 | 娄泽华 | https://github.com/X-lab2017/open-research/issues/229 | https://www.bilibili.com/video/BV1Jc411o7bq/ |
+|  08   | 10-30 | 赵生宇 | OpenRank精讲 | 娄泽华 | https://github.com/X-lab2017/open-research/issues/231 | https://www.bilibili.com/video/BV1Re41197FL/ |
+|  09   | 11-06 | 黄温瑞 |  | 娄泽华 |  |  |
+|  10   | 11-13 | 唐烨男 |  | 娄泽华 |  |  |
 |  11   | 11-20 |  |  |  |  |  |
 |  12   | 11-27 |  |  |  |  |  |
 |  13   | 12-04 |  |  |  |  |  |
