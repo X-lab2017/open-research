@@ -19,9 +19,9 @@
 |  07   | 10-23 | 夏小雅 | OSSLab 工作成果介绍与 X-lab 论文投稿促进 | 娄泽华 | https://github.com/X-lab2017/open-research/issues/229 | https://www.bilibili.com/video/BV1Jc411o7bq/ |
 |  08   | 10-30 | 赵生宇 | OpenRank精讲 | 娄泽华 | https://github.com/X-lab2017/open-research/issues/231 | https://www.bilibili.com/video/BV1Re41197FL/ |
 |  09   | 11-06 | 黄温瑞 | EALink: An Efficient and Accurate Pre-trained Framework for Issue-Commit Link Recovery | 娄泽华 |  https://github.com/X-lab2017/open-research/issues/233  | https://www.bilibili.com/video/BV1Uc41197zs/ |
-|  10   | 11-13 | 朱志炜 |  | 娄泽华 |  |  |
-|  11   | 11-20 |  |  |  |  |  |
-|  12   | 11-27 |  |  |  |  |  |
+|  10   | 11-13 | 朱志炜 |  | 韩凡宇 |  |  |
+|  11   | 11-20 | 李鸿斌 |  | 韩凡宇 |  |  |
+|  12   | 11-27 | 王婕 |  | 韩凡宇 |  |  |
 |  13   | 12-04 |  |  |  |  |  |
 |  14   | 12-11 |  |  |  |  |  |
 |  15   | 12-18 |  |  |  |  |  |
