@@ -8,9 +8,9 @@
 ****
 
 
-| 周数📆| 日期🕣| 分享🙋 | 内容📒                                                       | 主持💂‍♂️ |   关联 Issue📌   | 视频记录🎥 |
-| :---: | :---: | :----: | ------------------------------------------------------------ | :----: | :---------------: | :--------: |
-|  01   | 09-11 |  王 伟  | X-lab 新学期开源研究计划  | 毕枫林 | https://github.com/X-lab2017/open-research/issues/211 | https://www.bilibili.com/video/BV1tH4y1D7HE/ |
+| 周数📆 | 日期🕣 | 分享🙋 | 内容📒 | 主持💂‍♂️ | 关联 Issue📌 | 视频记录🎥 |
+| :------: | :----------: | :-------: |:-------:| :-------: | :----------: | :--------: |
+|  01   | 09-11 | 王 伟 | X-lab 新学期开源研究计划  | 毕枫林 | https://github.com/X-lab2017/open-research/issues/211 | https://www.bilibili.com/video/BV1tH4y1D7HE/ |
 |  02   | 09-18 | 韩凡宇 | Improving Language Understandingby Generative Pre-Training（GPT1.0）| 毕枫林 | https://github.com/X-lab2017/open-research/issues/215 | https://www.bilibili.com/video/BV1Ym4y15779/?vd_source=6afe4b8be94a864bf36064ef28580424 |
 |  03   | 09-25 | - |  |  |  |  |
 |  04   | 10-02 | - |  |  |  |  |
@@ -22,12 +22,13 @@
 |  10   | 11-13 | 朱志炜 | Topic recommendation for software repositories using multi-label classification algorithms | 韩凡宇 | https://github.com/X-lab2017/open-research/issues/236 | https://www.bilibili.com/video/BV16w411W7sG/ |
 |  11   | 11-20 | 李鸿斌 | Rep2Vec: Repository Embedding via Heterogeneous Graph Adversarial Contrastive Learning | 韩凡宇 | https://github.com/X-lab2017/open-research/issues/237 |  |
 |  12   | 11-27 | 王婕 |  | 韩凡宇 |  |  |
-|  13   | 12-04 |  |  |  |  |  |
-|  14   | 12-11 |  |  |  |  |  |
-|  15   | 12-18 |  |  |  |  |  |
-|  16   | 12-25 |  |  |  |  |  |
-|  17   | 01-01 |  |  |  |  |  |
-
+|  13   | 12-04 | 吴双 |  |  |  |  |
+|  14   | 12-11 | 唐烨男 |  |  |  |  |
+|  15   | 12-18 | 张欣然 |  |  |  |  |
+|  16   | 12-25 | 宁志成 |  |  |  |  |
+|  17   | 01-01 | - |  |  |  |  |
+|  18   | 01-08 | 伍泰炜 |  |  |  |  |
+|  19   | 01-15 |  |  |  |  |  |
 
 ****
 
