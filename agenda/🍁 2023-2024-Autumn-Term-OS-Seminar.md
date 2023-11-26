@@ -21,7 +21,7 @@
 |  09   | 11-06 | 黄温瑞 | EALink: An Efficient and Accurate Pre-trained Framework for Issue-Commit Link Recovery | 娄泽华 |  https://github.com/X-lab2017/open-research/issues/233  | https://www.bilibili.com/video/BV1Uc41197zs/ |
 |  10   | 11-13 | 朱志炜 | Topic recommendation for software repositories using multi-label classification algorithms | 韩凡宇 | https://github.com/X-lab2017/open-research/issues/236 | https://www.bilibili.com/video/BV16w411W7sG/ |
 |  11   | 11-20 | 李鸿斌 | Rep2Vec: Repository Embedding via Heterogeneous Graph Adversarial Contrastive Learning | 韩凡宇 | https://github.com/X-lab2017/open-research/issues/237 | https://www.bilibili.com/video/BV1xu4y1j78Q |
-|  12   | 11-27 | 王婕 |  | 韩凡宇 |  |  |
+|  12   | 11-27 | 王婕 | Graph attention network based participant recommendation for issue resolution in open source community | 韩凡宇 | https://github.com/X-lab2017/open-research/issues/243 |  |
 |  13   | 12-04 | 吴双 |  | 夏小雅 |  |  |
 |  14   | 12-11 | 唐烨男 |  | 夏小雅 |  |  |
 |  15   | 12-18 | 张欣然 |  | 夏小雅 |  |  |
