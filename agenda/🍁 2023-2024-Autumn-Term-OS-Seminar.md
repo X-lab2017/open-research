@@ -25,7 +25,7 @@
 |  13   | 12-11 | 唐烨男 | Interactive 3D Force-Directed Edge Bundling | 夏小雅 | https://github.com/X-lab2017/open-research/issues/246 | https://www.bilibili.com/video/BV1594y1N7PE/ |
 |  14   | 12-13 | 吴双 | Who, What, Why and How? Towards the Monetary Incentive in Crowd Collaboration: A Case Study of Github’s Sponsor Mechanism | 夏小雅 | https://github.com/X-lab2017/open-research/issues/249 | https://www.bilibili.com/video/BV1wu4y1H7rg/ |
 |  15   | 12-18 | 张欣然 | Developer Turnover in Global, Industrial Open Source Projects: Insights from Applying Survival Analysis  | 夏小雅 | https://github.com/X-lab2017/open-research/issues/250  | https://www.bilibili.com/video/BV1C64y1p7RK/ |
-|  16   | 12-25 | 宁志成 |  |娄泽华 |  |  |
+|  16   | 12-25 | 宁志成 | Heterogeneous Information Network Embedding for Recommendation |娄泽华 | https://github.com/X-lab2017/open-research/issues/251 |  |
 |  17   | 01-01 | - |  |  |  |  |
 |  18   | 01-08 | 伍泰炜 |  | 娄泽华|  |  |
 |  19   | 01-15 |  |  |  |  |  |
