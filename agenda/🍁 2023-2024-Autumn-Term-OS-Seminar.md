@@ -28,7 +28,7 @@
 |  16   | 12-25 | 宁志成 | Heterogeneous Information Network Embedding for Recommendation |娄泽华 | https://github.com/X-lab2017/open-research/issues/251 | https://www.bilibili.com/video/BV12a4y1672P/ |
 |  17   | 01-01 | - |  |  |  |  |
 |  18   | 01-09 | 伍泰炜 | CS1QA: A Dataset for Assisting Code-based Question Answering in an Introductory Programming Course | 娄泽华| https://github.com/X-lab2017/open-research/issues/254 |  |
-|  19   | 01-13 | All | X-lab Day | - | 链接 |  |
+|  19   | 01-13 | All | X-lab Day | - | [Issue](https://github.com/X-lab2017/open-wonderland/issues/344) |  |
 
 ****
 
