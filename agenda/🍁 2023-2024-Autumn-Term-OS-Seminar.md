@@ -27,7 +27,7 @@
 |  15   | 12-18 | 张欣然 | Developer Turnover in Global, Industrial Open Source Projects: Insights from Applying Survival Analysis  | 夏小雅 | https://github.com/X-lab2017/open-research/issues/250  | https://www.bilibili.com/video/BV1C64y1p7RK/ |
 |  16   | 12-25 | 宁志成 | Heterogeneous Information Network Embedding for Recommendation |娄泽华 | https://github.com/X-lab2017/open-research/issues/251 | https://www.bilibili.com/video/BV12a4y1672P/ |
 |  17   | 01-01 | - |  |  |  |  |
-|  18   | 01-08 | 伍泰炜 | AI-based Question Answering Assistance for Analyzing Natural-language Requirements | 娄泽华| https://github.com/X-lab2017/open-research/issues/254 |  |
+|  18   | 01-08 | 伍泰炜 | CS1QA: A Dataset for Assisting Code-based Question Answering in an Introductory Programming Course | 娄泽华| https://github.com/X-lab2017/open-research/issues/254 |  |
 |  19   | 01-15 |  |  |  |  |  |
 
 ****
