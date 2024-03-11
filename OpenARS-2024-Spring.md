@@ -14,7 +14,7 @@
 | :----: | :----: | :----: | :----: |:----:| :----: | :----------: | :--------: |
 |  01   | 02-26 | 王伟 | 路线图 | https://github.com/X-lab2017/open-research/issues/259 | X-lab Roadmap | 娄泽华 | [链接](https://www.bilibili.com/video/BV1JJ4m1e7NN/) |
 |  02   | 03-04 | 韩凡宇 | 大模型 | [链接](https://github.com/X-lab2017/open-wonderland/issues/374#issuecomment-1966789824) | 《指令微调的电商领域大模型》 | 娄泽华 | [链接](https://www.bilibili.com/video/BV1HF4m1V7sU/) |
-|  03   | 03-11 | 夏小雅 | 博士论文 |  |  | 娄泽华 |  |
+|  03   | 03-11 | 夏小雅 | 博士论文 |  | 《数据驱动的开源软件社区可持续性关键要素实证研究》 | 娄泽华 | [链接](https://www.bilibili.com/video/BV15w4m1o7pz) |
 |  04   | 03-18 | 唐烨男、宁志成 | 硕士论文 |  |  | 娄泽华 |  |
 |  05   | 03-25 | 张欣然、张翔宇 | 硕士论文 |  |  | 娄泽华 |  |
 |  06   | 04-01 | 伍泰炜、吴双 | 硕士论文 |  |  | 毕枫林 |  |
