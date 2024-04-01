@@ -16,8 +16,8 @@
 |  02   | 03-04 | 韩凡宇 | 大模型 | [链接](https://github.com/X-lab2017/open-wonderland/issues/374#issuecomment-1966789824) | 《指令微调的电商领域大模型》 | 娄泽华 | [链接](https://www.bilibili.com/video/BV1HF4m1V7sU/) |
 |  03   | 03-11 | 夏小雅 | 博士论文 | [链接](https://github.com/X-lab2017/open-research/issues/261) | 《数据驱动的开源软件社区可持续性关键要素实证研究》 | 娄泽华 | [链接](https://www.bilibili.com/video/BV15w4m1o7pz) |
 |  04-1   | 03-18 | 唐烨男 | 硕士论文 | [链接](https://github.com/X-lab2017/open-research/issues/262) | 《基于Infomap 和 WebGL的开源协作网络可视化研究》 | 娄泽华 | [链接](https://www.bilibili.com/video/BV1si421R7fN) |
-|  04-2   | 03-21 | 宁志成、张翔宇 | 硕士论文 |  |  | 娄泽华 |  |
-|  05   | 03-25 | 张欣然 | 硕士论文 |  |  | 娄泽华 |  |
+|  04-2   | 03-21 | 宁志成、张翔宇 | 硕士论文 | <br /> | 《基于开源协作异质图的开发者-项目双向推荐方法研究与应用》<br /> | 娄泽华 | [链接](https://www.bilibili.com/video/BV1zm421J7nw)<br /> |
+|  05   | 03-25 | 张欣然 | 硕士论文 |  | 《基于开源协作行为数据分析的开发者流失预测模型与监控预警工具》 | 娄泽华 | [链接](https://www.bilibili.com/video/BV1sm411r77y) |
 |  06   | 04-01 | 伍泰炜、吴双 | 硕士论文 |  |  | 毕枫林 |  |
 |  07   | 04-08 | 毕枫林 | [研发大模型](https://github.com/OpenEduTech/GPT4ALL/issues/1) |  |  | 毕枫林 |  |
 |  08   | 04-15 | 赵生宇 | 博士论文 |  |  | 毕枫林 |  |
