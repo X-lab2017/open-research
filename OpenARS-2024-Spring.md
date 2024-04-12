@@ -18,8 +18,8 @@
 |  04-1   | 03-18 | 唐烨男 | 硕士论文 | [链接](https://github.com/X-lab2017/open-research/issues/262) | 《基于Infomap 和 WebGL的开源协作网络可视化研究》 | 娄泽华 | [链接](https://www.bilibili.com/video/BV1si421R7fN) |
 |  04-2   | 03-21 | 宁志成、张翔宇 | 硕士论文 | <br /> | 《基于开源协作异质图的开发者-项目双向推荐方法研究与应用》<br /> | 娄泽华 | [链接](https://www.bilibili.com/video/BV1zm421J7nw)<br /> |
 |  05   | 03-25 | 张欣然 | 硕士论文 |  | 《基于开源协作行为数据分析的开发者流失预测模型与监控预警工具》 | 娄泽华 | [链接](https://www.bilibili.com/video/BV1sm411r77y) |
-|  06   | 04-01 | 伍泰炜、吴双 | 硕士论文 |  |  | 毕枫林 |  |
-|  07   | 04-08 | 毕枫林 | [研发大模型](https://github.com/OpenEduTech/GPT4ALL/issues/1) |  |  | 毕枫林 |  |
+|  06   | 04-01 | 伍泰炜、吴双 | 硕士论文 | https://github.com/X-lab2017/open-research/issues/266<br />https://github.com/X-lab2017/open-research/issues/264 | 《基于协作行为数据与预训练模型微调的开源社区问答方法研究》<br />基于协作行为数据与预训练模型微调的开源社区问答方法研究 | 毕枫林 | [链接](https://www.bilibili.com/video/BV17p421R7TP/) |
+|  07   | 04-08 | 毕枫林 | [研发大模型](https://github.com/OpenEduTech/GPT4ALL/issues/1) | https://github.com/X-lab2017/open-research/issues/265 | Unifying the Perspectives of NLP and Software Engineering: A Survey on Language Models for Code | 毕枫林 | [链接](https://www.bilibili.com/video/BV17p421R7TP/) |
 |  08   | 04-15 | 赵生宇 | 博士论文 |  |  | 毕枫林 |  |
 |  09   | 04-22 | 娄泽华 | 引用网络 |  |  | 毕枫林 |  |
 |  10   | 04-29 | 彭佳恒 | 硕士论文 |  |  | 毕枫林 |  |
