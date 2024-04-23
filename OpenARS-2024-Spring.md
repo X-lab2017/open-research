@@ -21,7 +21,7 @@
 |  06   | 04-01 | 伍泰炜、吴双 | 硕士论文 | https://github.com/X-lab2017/open-research/issues/266<br />https://github.com/X-lab2017/open-research/issues/264 | 《基于协作行为数据与预训练模型微调的开源社区问答方法研究》<br />基于协作行为数据与预训练模型微调的开源社区问答方法研究 | 毕枫林 | [链接](https://www.bilibili.com/video/BV17p421R7TP/) |
 |  07   | 04-08 | 毕枫林 | [研发大模型](https://github.com/OpenEduTech/GPT4ALL/issues/1) | https://github.com/X-lab2017/open-research/issues/265 | Unifying the Perspectives of NLP and Software Engineering: A Survey on Language Models for Code | 毕枫林 | [链接](https://www.bilibili.com/video/BV17p421R7TP/) |
 |  08   | 04-15 | 赵生宇 | 博士论文 |  |  | 毕枫林 |  |
-|  09   | 04-22 | 娄泽华 | 引用网络 |  |  | 毕枫林 |  |
+|  09   | 04-22 | 娄泽华 | 引用网络 | https://github.com/X-lab2017/open-research/issues/268 | Reference Relation Extraction for building Open Source Database Socio-Technical Network | 毕枫林 | [链接](https://www.bilibili.com/video/BV1Mz42167pQ/) |
 |  10   | 04-29 | 彭佳恒 | 硕士论文 |  |  | 毕枫林 |  |
 |  11   | 05-06 | 王婕 | 待定 |  |  | 夏小雅 |  |
 |  12   | 05-13 | 黄温瑞 | 教育测量与评价 |  |  | 夏小雅 |  |
