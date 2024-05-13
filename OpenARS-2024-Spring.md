@@ -23,8 +23,8 @@
 |  08   | 04-15 | 永雷 | 供应链安全 |  | 开源软件质量分析 | 毕枫林 | [链接](https://www.bilibili.com/video/BV1om421x72y/) |
 |  09   | 04-22 | 娄泽华 | 引用网络 | https://github.com/X-lab2017/open-research/issues/268 | Reference Relation Extraction for building Open Source Database Socio-Technical Network | 毕枫林 | [链接](https://www.bilibili.com/video/BV1Mz42167pQ/) |
 |  10   | 04-29 | 彭佳恒 | 硕士论文 | https://github.com/X-lab2017/open-research/issues/271 | 语言模型在合成数据的最佳实践和经验教训 | 毕枫林 | [链接](https://www.bilibili.com/video/BV1Hm421u7i8/) |
-|  11   | 05-06 | 王婕 | 待定 |  |  | 夏小雅 |  |
-|  12   | 05-13 | 黄温瑞 | 教育测量与评价 |  |  | 夏小雅 |  |
+|  11   | 05-06 | 王婕 | 开源技能匹配 | https://github.com/X-lab2017/open-research/issues/273 | Towards Mining OSS Skills from GitHub Activity | 夏小雅 |[链接](https://www.bilibili.com/video/BV1ZZ421j72N/)  |
+|  12   | 05-13 | 黄温瑞 | 教育测量与评价 | https://github.com/X-lab2017/open-research/issues/276 | OSS in Software Engineering Education: Mapping Characteristics of Brazilian Instructors | 夏小雅 | [链接](https://www.bilibili.com/video/BV1iz421271L/) |
 |  13   | 05-20 | 李鸿斌 | 开源岗位匹配 |  |  | 夏小雅 |  |
 |  14   | 05-27 | 朱志炜 | Topic 挖掘 |  |  | 夏小雅 |  |
 |  15   | 06-03 | 黄帆 | 图神经网络 |  |  | 韩凡宇 |  |
