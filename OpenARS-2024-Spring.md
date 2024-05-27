@@ -26,7 +26,7 @@
 |  11   | 05-06 | 王婕 | 开源技能匹配 | https://github.com/X-lab2017/open-research/issues/273 | Towards Mining OSS Skills from GitHub Activity | 夏小雅 |[链接](https://www.bilibili.com/video/BV1ZZ421j72N/)  |
 |  12   | 05-13 | 黄温瑞 | 教育测量与评价 | https://github.com/X-lab2017/open-research/issues/276 | OSS in Software Engineering Education: Mapping Characteristics of Brazilian Instructors | 夏小雅 | [链接](https://www.bilibili.com/video/BV1iz421271L/) |
 |  13   | 05-20 | 李鸿斌 | 开源岗位匹配 |  |  | 夏小雅 |  |
-|  14   | 05-27 | 朱志炜 | Topic 挖掘 |  |  | 夏小雅 |  |
+|  14   | 05-27 | 朱志炜 | Topic 挖掘 | https://github.com/X-lab2017/open-research/issues/279 | MULA: A Just-In-Time Multi-labeling System for Issue Reports | 夏小雅 | [链接](https://meeting.tencent.com/v2/cloud-record/share?id=3c1a6626-3936-45ad-874c-f83fd4368114&from=-1&is-single=false&record_type=2) |
 |  15   | 06-03 | 黄帆 | 图神经网络 |  |  | 韩凡宇 |  |
 |  16   | 06-10 | - | 端午节 |  |  | 韩凡宇 |  |
 |  17   | 06-17 | 游明东 | 数字技能评估 |  |  | 韩凡宇 |  |
