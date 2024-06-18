@@ -27,9 +27,9 @@
 |  12   | 05-13 | 黄温瑞 | 教育测量与评价 | https://github.com/X-lab2017/open-research/issues/276 | OSS in Software Engineering Education: Mapping Characteristics of Brazilian Instructors | 夏小雅 | [链接](https://www.bilibili.com/video/BV1iz421271L/) |
 |  13   | 05-20 | 李鸿斌 | 开源岗位匹配 |  |  | 夏小雅 |  |
 |  14   | 05-27 | 朱志炜 | Topic 挖掘 | https://github.com/X-lab2017/open-research/issues/279 | MULA: A Just-In-Time Multi-labeling System for Issue Reports | 夏小雅 | [链接](https://meeting.tencent.com/v2/cloud-record/share?id=3c1a6626-3936-45ad-874c-f83fd4368114&from=-1&is-single=false&record_type=2) |
-|  15   | 06-03 | 黄帆 | 图神经网络 | https://github.com/X-lab2017/open-research/issues/287 |  Deep Graph Representation Learning and Optimization for Influence Maximization | 韩凡宇 | [链接](https://meeting.tencent.com/user-center/shared-record-info?id=4bdb2f8a-ba9c-4f25-bf4e-6df7f72f3d17&from=-1&is-single=false&record_type=2&jump_from=1&app_lang=zh-cn&app_version=3.26.11.412&app_sdk_id=0300000000&app_publish_channel=TencentInside&os_version=12.6.1&os_name=Mac&c_district=0&app_instance_id=2&click_source_for_middle_login=2) |
+|  15   | 06-03 | 黄帆 | 图神经网络 | https://github.com/X-lab2017/open-research/issues/287 |  Deep Graph Representation Learning and Optimization for Influence Maximization | 韩凡宇 | [链接](https://www.bilibili.com/video/BV1v1421y7V5/?spm_id_from=333.1365.list.card_archive.click&vd_source=4523541cf52f9052cb72592cc1be1adf) |
 |  16   | 06-10 | - | 端午节 |  |  | 韩凡宇 |  |
-|  17   | 06-17 | 游明东 | 数字技能评估 |  |  | 韩凡宇 |  |
+|  17   | 06-17 | 游明东 | 数字技能评估 | https://github.com/X-lab2017/open-research/issues/288 | Using knowledge units of programming languages to recommend reviewers for pull requests: an empirical study | 韩凡宇 |[链接](https://www.bilibili.com/video/BV1F4421D7n1/?spm_id_from=333.1365.list.card_archive.click&vd_source=4523541cf52f9052cb72592cc1be1adf)  |
 |  18   | 06-24 | 王衍童 |  代码大模型评测 | |  | 韩凡宇 |  |
 |  19   | 07-01 | 赵思嘉 | 开源社区分析 |  |  | 韩凡宇 |  |
 |  20   | 07-08 | 王伟 | 学期总结 |  | 暑假工作安排 | 韩凡宇 |  |
