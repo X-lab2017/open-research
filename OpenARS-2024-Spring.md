@@ -31,7 +31,7 @@
 |  16   | 06-10 | - | 端午节 |  |  | 韩凡宇 |  |
 |  17   | 06-17 | 游明东 | 数字技能评估 | https://github.com/X-lab2017/open-research/issues/288 | Using knowledge units of programming languages to recommend reviewers for pull requests: an empirical study | 韩凡宇 |[链接](https://www.bilibili.com/video/BV1F4421D7n1/?spm_id_from=333.1365.list.card_archive.click&vd_source=4523541cf52f9052cb72592cc1be1adf)  |
 |  18   | 06-24 | 王衍童 |  代码大模型评测 |https://github.com/X-lab2017/open-research/issues/289 | Automating Code Review Activities by Large-Scale Pre-training | 韩凡宇 | [链接](https://www.bilibili.com/video/BV1Zm421V7LR/?spm_id_from=333.1365.list.card_archive.click) |
-|  19   | 07-01 | 赵思嘉 | 开源社区分析 | https://github.com/X-lab2017/open-research/issues/290 | Multi-objective based unbiased community identification in dynamic social networks | 韩凡宇 |  |
+|  19   | 07-01 | 赵思嘉 | 开源社区分析 | https://github.com/X-lab2017/open-research/issues/290 | Multi-objective based unbiased community identification in dynamic social networks | 韩凡宇 | [链接](https://www.bilibili.com/video/BV1ST421r7Kn/?spm_id_from=333.1365.list.card_archive.click) |
 |  20   | 07-08 | 王伟 | 学期总结 |  | 暑假工作安排 | 韩凡宇 |  |
 
 ****
