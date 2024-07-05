@@ -25,7 +25,7 @@
 |  10   | 04-29 | 彭佳恒 | 硕士论文 | https://github.com/X-lab2017/open-research/issues/271 | 语言模型在合成数据的最佳实践和经验教训 | 毕枫林 | [链接](https://www.bilibili.com/video/BV1Hm421u7i8/) |
 |  11   | 05-06 | 王婕 | 开源技能匹配 | https://github.com/X-lab2017/open-research/issues/273 | Towards Mining OSS Skills from GitHub Activity | 夏小雅 |[链接](https://www.bilibili.com/video/BV1ZZ421j72N/)  |
 |  12   | 05-13 | 黄温瑞 | 教育测量与评价 | https://github.com/X-lab2017/open-research/issues/276 | OSS in Software Engineering Education: Mapping Characteristics of Brazilian Instructors | 夏小雅 | [链接](https://www.bilibili.com/video/BV1iz421271L/) |
-|  13   | 05-20 | 李鸿斌 | 开源岗位匹配 |  |  | 夏小雅 |  |
+|  13   | 05-20 | 李鸿斌 | 开源社交推荐 | https://github.com/X-lab2017/open-research/issues/285 | Graph Neural Networks for Friend Ranking in Large-scale Social Platforms | 夏小雅 | [链接](https://meeting.tencent.com/meeting-record/shares?id=c38f883e-10d3-42c2-ada1-98993453cdb5&form=-1&app_lang=zh-cn&app_version=3.21.3.428&app_sdk_id=0300000000&app_publish_channel=TencentInside&os_version=14.2.0&os_name=Mac&c_district=0&app_instance_id=2&click_source_for_middle_login=2)  |
 |  14   | 05-27 | 朱志炜 | Topic 挖掘 | https://github.com/X-lab2017/open-research/issues/279 | MULA: A Just-In-Time Multi-labeling System for Issue Reports | 夏小雅 | [链接](https://meeting.tencent.com/v2/cloud-record/share?id=3c1a6626-3936-45ad-874c-f83fd4368114&from=-1&is-single=false&record_type=2) |
 |  15   | 06-03 | 黄帆 | 图神经网络 | https://github.com/X-lab2017/open-research/issues/287 |  Deep Graph Representation Learning and Optimization for Influence Maximization | 韩凡宇 | [链接](https://www.bilibili.com/video/BV1v1421y7V5/?spm_id_from=333.1365.list.card_archive.click&vd_source=4523541cf52f9052cb72592cc1be1adf) |
 |  16   | 06-10 | - | 端午节 |  |  | 韩凡宇 |  |
