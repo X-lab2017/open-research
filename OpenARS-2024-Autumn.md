@@ -15,7 +15,7 @@
 |  02   | 09-30 | 毕枫林 | 博士论文 |https://github.com/X-lab2017/open-research/issues/301 | 开源软件生态系统研究概论 | 韩凡宇 | [链接](https://www.bilibili.com/video/BV1mP2oY8EkG)|
 |  03   | 10-07 | - | 国庆节 |  |  |  |  |
 |  04   | 10-14 | 赵生宇 | 博士论文 | https://github.com/X-lab2017/open-research/issues/302 | 开源生态数据平台的关键技术研究与应用  | 韩凡宇 | [链接](https://www.bilibili.com/video/BV1UA2oYcE4L) |
-|  05   | 10-21 | 王婕 | 硕士论文 |  |  | 韩凡宇 |  |
+|  05   | 10-21 | 王婕 | 硕士论文 | https://github.com/X-lab2017/open-research/issues/303 | 基于开发者行为数据的开源技能识别研究 | 韩凡宇 |  |
 |  06   | 10-28 | 黄温瑞 | 硕士论文 |  |  | 毕枫林 |  |
 |  07   | 11-04 | 李鸿斌 | 硕士论文 |  |  | 毕枫林 |  |
 |  08   | 11-11 | 朱志炜 | 硕士论文  |  |  | 毕枫林 |  |
