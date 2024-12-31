@@ -25,7 +25,7 @@
 |  12   | 12-09 | 游明东 | 小论文 | https://github.com/X-lab2017/open-research/issues/312 | 基于时间序列预测模型的Github仓库活跃度计算 | 彭佳恒 | [链接](https://www.bilibili.com/video/BV1rUqPYjEeV) |
 |  13   | 12-16 | 赵思嘉 | 相关论文 | https://github.com/X-lab2017/open-research/issues/316 | 面向Github开发者地理位置研究 | 彭佳恒 | |
 |  14   | 12-23 | 王衍童 | 相关论文 | https://github.com/X-lab2017/open-research/issues/319 | UniLog: Automatic Logging via LLM and In-Context Learning | 娄泽华 | [链接](https://www.bilibili.com/video/BV1zFC5YHEHJ) |
-|  15   | 12-30 | 彭佳恒 | 相关论文 | https://github.com/X-lab2017/open-research/issues/319 | 从与价值观相关讨论中预测开源贡献者流失：GitHub Issue 的分析 | 娄泽华 | [链接](https://www.bilibili.com/video/BV1tM6JY6Eao) |
+|  15   | 12-30 | 彭佳恒 | 相关论文 | https://github.com/X-lab2017/open-research/issues/320 | 从与价值观相关讨论中预测开源贡献者流失：GitHub Issue 的分析 | 娄泽华 | [链接](https://www.bilibili.com/video/BV1tM6JY6Eao) |
 |  16   | 01-06 | 张震 | |  | | 娄泽华 |  |
 |  17   | 01-13 | 王伟 | 学期总结 |  | | 娄泽华 |  |
 
