@@ -26,7 +26,7 @@
 |  13   | 12-16 | 赵思嘉 | 相关论文 | https://github.com/X-lab2017/open-research/issues/316 | 面向Github开发者地理位置研究 | 彭佳恒 | |
 |  14   | 12-23 | 王衍童 | 相关论文 | https://github.com/X-lab2017/open-research/issues/319 | UniLog: Automatic Logging via LLM and In-Context Learning | 娄泽华 | [链接](https://www.bilibili.com/video/BV1zFC5YHEHJ) |
 |  15   | 12-30 | 彭佳恒 | 相关论文 | https://github.com/X-lab2017/open-research/issues/320 | 从与价值观相关讨论中预测开源贡献者流失：GitHub Issue 的分析 | 娄泽华 | [链接](https://www.bilibili.com/video/BV1tM6JY6Eao) |
-|  16   | 01-06 | 张震 | |  | | 娄泽华 |  |
+|  16   | 01-06 | 张震 | 工作与思考 | https://github.com/X-lab2017/open-research/issues/323 | 以利益相关者需求为驱动的构建开源benchmark方法 - 以Issue分配任务为例 | 娄泽华 | [链接](https://www.bilibili.com/video/BV13HrLYuEex) |
 |  17   | 01-13 | 王伟 | 学期总结 |  | | 娄泽华 |  |
 
 
