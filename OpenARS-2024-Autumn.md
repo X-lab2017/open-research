@@ -28,7 +28,7 @@
 |  15   | 12-30 | 彭佳恒 | 相关论文 | https://github.com/X-lab2017/open-research/issues/320 | 从与价值观相关讨论中预测开源贡献者流失：GitHub Issue 的分析 | 娄泽华 | [链接](https://www.bilibili.com/video/BV1tM6JY6Eao) |
 |  16   | 01-06 | 张震 | 工作与思考 | https://github.com/X-lab2017/open-research/issues/323 | 以利益相关者需求为驱动的构建开源benchmark方法 - 以Issue分配任务为例 | 娄泽华 | [链接](https://www.bilibili.com/video/BV13HrLYuEex) |
 |  17   | 01-13 | 黄温瑞，<br />王婕 | 毕业进度相关内容 |  | 基于可追溯性链接和代码质量的PR价值评估研究，<br />基于开发者行为数据的开源技能识别研究 | 娄泽华 | [链接](https://www.bilibili.com/video/BV1M1cmerEB2) |
-|  18   | 01-20 | 王伟 | 学期总结 |  | | 娄泽华 |  |
+|  18   | 01-20 | 王伟 | 学期总结 |  | X-lab开源运营服务能力矩阵 | 娄泽华 | [链接](https://www.bilibili.com/video/BV1TXwWekEEW) |
 
 
 
