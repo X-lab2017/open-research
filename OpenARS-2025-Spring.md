@@ -13,7 +13,7 @@
 | :----: | :----: | :----: | :----: |:----:| :----: | :----------: | :--------: |
 |  01   | 02-17 | 王伟 | 路线图 | [链接](https://github.com/X-lab2017/open-wonderland/issues/452) | X-lab 2025 Roadmap | 韩凡宇 | [链接](https://www.bilibili.com/video/BV1DRApeLEJv/) |
 |  02   | 02-24 | 毕枫林 | 博士论文 | [链接](https://github.com/X-lab2017/open-research/issues/328) | 面向开源软件生态的可控内容生成关键技术研究 | 韩凡宇 | [链接](https://www.bilibili.com/video/BV1nJ9wYjEW7/) |
-|  03   | 03-03 | 赵生宇 | 多层次标签体系 | [链接](https://github.com/X-lab2017/open-research/issues/329) | BERTopic: Neural topic modeling with a class-based TF-IDF procedure | 韩凡宇 |  |
+|  03   | 03-03 | 赵生宇 | 多层次标签体系 | [链接](https://github.com/X-lab2017/open-research/issues/329) | BERTopic: Neural topic modeling with a class-based TF-IDF procedure | 韩凡宇 | [链接](https://www.bilibili.com/video/BV1Xc9BYNEk6/) |
 |  04   | 03-10 | 段莫名 | 模型许可证及合规性分析 | [链接](https://github.com/X-lab2017/open-research/issues/331) | AI 时代的模型许可证及其合规性分析工具 | 韩凡宇 |  |
 |  05   | 03-17 | 王婕、黄温瑞、李鸿斌、朱志炜 | 硕士论文 | | | 韩凡宇 |  |
 |  06   | 03-24 | 娄泽华 |  |  |  | 毕枫林 |  |
