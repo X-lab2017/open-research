@@ -15,9 +15,9 @@
 |  04   | 03-10 | 段莫名 | 模型许可证及合规性分析 | [链接](https://github.com/X-lab2017/open-research/issues/331) | AI 时代的模型许可证及其合规性分析工具 | 韩凡宇 | [链接](https://www.bilibili.com/video/BV1AERHYkELX/) |
 |  05   | 03-17 | 王婕、黄温瑞、李鸿斌、朱志炜 | 硕士论文 | | 硕士论文组内答辩 | 韩凡宇 | [链接](https://www.bilibili.com/video/BV1eeo1YiEoC/) |
 |  06   | 03-24 | 娄泽华 |  |  |  | 毕枫林 |  |
-|  07   | 03-31 | 韩凡宇 | 多层次标签体系 | [链接](https://github.com/X-lab2017/open-research/issues/330) | TELEClass: Taxonomy Enrichment and LLM-Enhanced Hierarchical Text Classification with Minimal Supervision | 毕枫林 |  |
+|  07   | 03-31 | 张震 |  |  | | 毕枫林 |  |
 |  08   | 04-07 | 彭佳恒 | | | | 毕枫林 |  |
-|  09   | 04-14 | 张震 |  |  | | 毕枫林 |  |
+|  09   | 04-14 | 韩凡宇 | 多层次标签体系 | [链接](https://github.com/X-lab2017/open-research/issues/330) | TELEClass: Taxonomy Enrichment and LLM-Enhanced Hierarchical Text Classification with Minimal Supervision | 毕枫林 |  |
 |  10   | 04-21 | 黄帆 |  |  |  | 毕枫林 |  |
 |  11   | 04-28 | 游明东 |  |  |  | 彭佳恒 |  |
 |  12   | 05-05 | - | 劳动节假期 | ||  |  |
