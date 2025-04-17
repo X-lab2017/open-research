@@ -16,8 +16,8 @@
 |  05   | 03-17 | 王婕、黄温瑞、李鸿斌、朱志炜 | 硕士论文 | | 硕士论文组内答辩 | 韩凡宇 | [链接](https://www.bilibili.com/video/BV1eeo1YiEoC/) |
 |  06   | 03-24 | 娄泽华 | 协作网络 | [链接](https://github.com/X-lab2017/open-research/issues/309) | 基于协作信息抽取工具GH_CoRE(GitHub_Collaboration_Relation_Extraction)的异质图构建与相关下游任务讨论 | 毕枫林 |  |
 |  07   | 03-31 | 张震 | 软件供应链 | [链接](https://github.com/X-lab2017/open-research/issues/333)  | 面向开源治理的AI供应链设计 | 毕枫林 | [链接](https://www.bilibili.com/video/BV1PSZ4YqEdP/) |
-|  08   | 04-07 | 彭佳恒 | | | | 毕枫林 |  |
-|  09   | 04-14 | 韩凡宇 | 多层次标签体系 | [链接](https://github.com/X-lab2017/open-research/issues/330) | TELEClass: Taxonomy Enrichment and LLM-Enhanced Hierarchical Text Classification with Minimal Supervision | 毕枫林 |  |
+|  08   | 04-07 | 彭佳恒 | 计算教育学 | [链接](https://github.com/X-lab2017/open-research/issues/334) | 使用LLMs模拟学生对考试问题的反应 | 毕枫林 | [链接](https://www.bilibili.com/video/BV1z9RmYCEy5/) |
+|  09   | 04-14 | 韩凡宇 | 多层次标签体系 | [链接](https://github.com/X-lab2017/open-research/issues/330) | TELEClass: Taxonomy Enrichment and LLM-Enhanced Hierarchical Text Classification with Minimal Supervision | 毕枫林 | [链接](https://www.bilibili.com/video/BV1Bb5YzkEQ3/) |
 |  10   | 04-21 | 黄帆 |  |  |  | 毕枫林 |  |
 |  11   | 04-28 | 游明东 |  |  |  | 彭佳恒 |  |
 |  12   | 05-05 | - | 劳动节假期 | ||  |  |
