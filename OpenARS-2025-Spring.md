@@ -19,9 +19,9 @@
 |  08   | 04-07 | 彭佳恒 | 计算教育学 | [链接](https://github.com/X-lab2017/open-research/issues/334) | 使用LLMs模拟学生对考试问题的反应 | 毕枫林 | [链接](https://www.bilibili.com/video/BV1z9RmYCEy5/) |
 |  09   | 04-14 | 韩凡宇 | 多层次标签体系 | [链接](https://github.com/X-lab2017/open-research/issues/330) | TELEClass: Taxonomy Enrichment and LLM-Enhanced Hierarchical Text Classification with Minimal Supervision | 毕枫林 | [链接](https://www.bilibili.com/video/BV1Bb5YzkEQ3/) |
 |  10   | 04-21 | 黄帆 | 多智能体 | [链接](https://github.com/X-lab2017/open-research/issues/337) | GRAPHAGENT: AGENTIC GRAPH LANGUAGE ASSISTANT | 毕枫林 | [链接](https://www.bilibili.com/video/BV1m552z8EdA/) |
-|  11   | 04-28 | 游明东 |  |  |  | 彭佳恒 |  |
+|  11   | 04-28 | 游明东 | Github时序预测 | [链接](https://github.com/X-lab2017/open-research/issues/338) | How Early Participation Determines Long-Term Sustained Activity in GitHub Projects? | 彭佳恒 | [链接](https://www.bilibili.com/video/BV1M2LUzgE3z/?spm_id_from=333.1387.homepage.video_card.click&vd_source=3a89b73a562a3d0164fc31f4e0b0204c) |
 |  12   | 05-05 | - | 劳动节假期 | ||  |  |
-|  13   | 05-12 | 赵思嘉 |  |  |  | 彭佳恒 | |
+|  13   | 05-12 | 赵思嘉 |  |  |  | 彭佳恒 |  |
 |  14   | 05-19 | 王衍童 | | |  | 彭佳恒 |  |
 |  15   | 05-26 | 戴文同 | |  |  | 彭佳恒 |   |
 |  16   | 06-02 | - | 端午节假期 |  |  |  |   |
