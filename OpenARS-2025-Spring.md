@@ -21,12 +21,12 @@
 |  10   | 04-21 | 黄帆 | 多智能体 | [链接](https://github.com/X-lab2017/open-research/issues/337) | GRAPHAGENT: AGENTIC GRAPH LANGUAGE ASSISTANT | 毕枫林 | [链接](https://www.bilibili.com/video/BV1m552z8EdA/) |
 |  11   | 04-28 | 游明东 | Github时序预测 | [链接](https://github.com/X-lab2017/open-research/issues/338) | How Early Participation Determines Long-Term Sustained Activity in GitHub Projects? | 彭佳恒 | [链接](https://www.bilibili.com/video/BV1M2LUzgE3z/?spm_id_from=333.1387.homepage.video_card.click&vd_source=3a89b73a562a3d0164fc31f4e0b0204c) |
 |  12   | 05-05 | - | 劳动节假期 | ||  |  |
-|  13   | 05-12 | 赵思嘉 |  |  |  | 彭佳恒 |  |
-|  14   | 05-19 | 王衍童 | | |  | 彭佳恒 |  |
+|  13   | 05-12 | 赵思嘉 | 大模型 | [链接](https://github.com/X-lab2017/open-research/issues/339) | ComGPT: Detecting Local Community Structure with Large Language Models | 彭佳恒 | [链接](https://www.bilibili.com/video/BV1owjJz6Eih/?spm_id_from=333.1387.list.card_archive.click&vd_source=3a89b73a562a3d0164fc31f4e0b0204c) |
+|  14   | 05-19 | 王衍童 | 大模型 | [链接](https://github.com/X-lab2017/open-research/issues/341) | LocAgent: Graph-Guided LLM Agents for Code Localization | 彭佳恒 | [链接](https://www.bilibili.com/video/BV17wjJzrEvw/?spm_id_from=333.1387.list.card_archive.click&vd_source=3a89b73a562a3d0164fc31f4e0b0204c) |
 |  15   | 05-26 | 戴文同 | |  |  | 彭佳恒 |   |
 |  16   | 06-02 | - | 端午节假期 |  |  |  |   |
 |  17   | 06-09 | 史雪涛、何德鑫 |  |  | | 娄泽华 | |
-|  18   | 06-16 | 方蕴仪、夏倍蓓 | | |  | 娄泽华 | |
+|  18   | 06-16 | 夏倍蓓 | | |  | 娄泽华 | |
 |  19   | 06-23 | 谢思怡 | |  |  | 娄泽华 | |
 |  20   | 06-30 | 王伟 | 学期总结 | | 暑假工作安排  | 娄泽华 | |
 
