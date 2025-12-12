@@ -23,7 +23,7 @@
 |  12   | 05-05 | - | 劳动节假期 | ||  |  |
 |  13   | 05-12 | 赵思嘉 | 大模型 | [链接](https://github.com/X-lab2017/open-research/issues/339) | ComGPT: Detecting Local Community Structure with Large Language Models | 彭佳恒 | [链接](https://www.bilibili.com/video/BV1owjJz6Eih/?spm_id_from=333.1387.list.card_archive.click&vd_source=3a89b73a562a3d0164fc31f4e0b0204c) |
 |  14   | 05-19 | 王衍童 | 大模型 | [链接](https://github.com/X-lab2017/open-research/issues/341) | LocAgent: Graph-Guided LLM Agents for Code Localization | 彭佳恒 | [链接](https://www.bilibili.com/video/BV17wjJzrEvw/?spm_id_from=333.1387.list.card_archive.click&vd_source=3a89b73a562a3d0164fc31f4e0b0204c) |
-|  15   | 05-26 | 戴文同 | |  |  | 彭佳恒 |   |
+|  15   | 05-26 | 戴文同 | 漏洞检测 | [链接](https://github.com/X-lab2017/open-research/issues/343) | Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking | 彭佳恒 |   |
 |  16   | 06-02 | - | 端午节假期 |  |  |  |   |
 |  17   | 06-09 | 史雪涛、何德鑫 |  |  | | 娄泽华 | |
 |  18   | 06-16 | 夏倍蓓 | | |  | 娄泽华 | |
